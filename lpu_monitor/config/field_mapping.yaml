@@ -1,0 +1,155 @@
+# field_mapping.yaml
+#
+# Maps raw JSON keys from webapi.lpu.in responses to canonical, stable field
+# names used everywhere else in the system (storage, diffing, reporting).
+#
+# STATUS: the `fee` section below is based on REAL confirmed responses for
+# P132 (B.Tech CSE), P102-NNP (Diploma AI/ML), and P8G (D.Litt) -- not guesses.
+#
+# --- CONFIRMED RESPONSE-SHAPE RULES (from real test runs, not assumptions) ---
+#
+# 1. EMPTY ARRAY = "not applicable", not an error.
+#    P8G (D.Litt, a Ph.D-tier programme) returned `[]`. The normalizer must
+#    treat an empty array as "no fee data exists for this programme" -- log it
+#    plainly, do NOT raise an error, and do NOT write any field_snapshots rows
+#    for that programme's fee group (there's nothing to compare against later).
+#
+# 2. MULTI-ENTRY ARRAYS: COALESCE, DO NOT INDEX A FIXED ENTRY.
+#    P132/P132-L/P132-HNF/P5K0-NNKA all returned fully-identical duplicate
+#    entries. But P102-NNP returned two entries differing in exactly one field
+#    (UniformFee): entry[0] = "4000 (One time)", entry[1] = null. This is a
+#    duplicate-row-with-a-missing-value pattern, not two disagreeing real
+#    numbers. The normalizer must therefore extract each field as:
+#        first non-null value found, scanning entries in order
+#    rather than always reading entries[0] -- otherwise a programme whose
+#    entries[0] happens to be the incomplete copy would silently record a
+#    missing fee as null instead of the real value. json_path values below are
+#    written as bare field names (no "[0]." prefix) for exactly this reason --
+#    the normalizer applies the coalesce rule to every field uniformly.
+#
+# 3. If coalescing finds a field where entries have DIFFERENT non-null values
+#    (a genuine disagreement, not just "one is missing"), that's a real data
+#    inconsistency worth flagging to LPU IT directly -- log it distinctly
+#    (e.g. to api_health_log) rather than silently picking either value.
+
+fee:
+  # --- Core Indian fee figures ---
+  - json_path: "FullFee"
+    canonical_name: "full_fee_per_phase_current"
+  - json_path: "ResearchGrant"
+    canonical_name: "research_grant"
+  - json_path: "UniformFee"
+    canonical_name: "uniform_fee"
+  - json_path: "indianexaminationfee"
+    canonical_name: "indian_examination_fee_phase1"
+  - json_path: "IndianExaminationFeePhase2"
+    canonical_name: "indian_examination_fee_phase2"
+  - json_path: "IndianExaminationFeePhase3"
+    canonical_name: "indian_examination_fee_phase3"
+  - json_path: "IndianExaminationFeePhase4"
+    canonical_name: "indian_examination_fee_phase4"
+  - json_path: "IndianExaminationFeePhase5"
+    canonical_name: "indian_examination_fee_phase5"
+
+  # --- Indian tuition fee, per admission phase ---
+  - json_path: "indiantutionfee Phase1"
+    canonical_name: "indian_tuition_fee_phase1"
+  - json_path: "indiantutionfee Phase2"
+    canonical_name: "indian_tuition_fee_phase2"
+  - json_path: "indiantutionfee Phase3"
+    canonical_name: "indian_tuition_fee_phase3"
+  - json_path: "indiantutionfee Phase4"
+    canonical_name: "indian_tuition_fee_phase4"
+
+  # --- Scholarship brackets (percentage cutoffs -> discounted fee), per phase ---
+  - json_path: "above95ph1"
+    canonical_name: "scholarship_fee_above95_phase1"
+  - json_path: "above95ph2"
+    canonical_name: "scholarship_fee_above95_phase2"
+  - json_path: "above95ph3"
+    canonical_name: "scholarship_fee_above95_phase3"
+  - json_path: "above95ph4"
+    canonical_name: "scholarship_fee_above95_phase4"
+  - json_path: "above95ph5"
+    canonical_name: "scholarship_fee_above95_phase5"
+  - json_path: "above90 phase1"
+    canonical_name: "scholarship_fee_above90_phase1"
+  - json_path: "above90 phase2"
+    canonical_name: "scholarship_fee_above90_phase2"
+  - json_path: "above90 phase3"
+    canonical_name: "scholarship_fee_above90_phase3"
+  - json_path: "above90 phase4"
+    canonical_name: "scholarship_fee_above90_phase4"
+  - json_path: "above90 phase5"
+    canonical_name: "scholarship_fee_above90_phase5"
+  - json_path: "above80 phase1"
+    canonical_name: "scholarship_fee_above80_phase1"
+  - json_path: "above80 phase2"
+    canonical_name: "scholarship_fee_above80_phase2"
+  - json_path: "above80 phase3"
+    canonical_name: "scholarship_fee_above80_phase3"
+  - json_path: "above80 phase4"
+    canonical_name: "scholarship_fee_above80_phase4"
+  - json_path: "above80 phase5"
+    canonical_name: "scholarship_fee_above80_phase5"
+  - json_path: "above70 phase1"
+    canonical_name: "scholarship_fee_above70_phase1"
+  - json_path: "above70 phase2"
+    canonical_name: "scholarship_fee_above70_phase2"
+  - json_path: "above70 phase3"
+    canonical_name: "scholarship_fee_above70_phase3"
+  - json_path: "above70 phase4"
+    canonical_name: "scholarship_fee_above70_phase4"
+  - json_path: "above70 phase5"
+    canonical_name: "scholarship_fee_above70_phase5"
+
+  # --- International fee ---
+  - json_path: "internationaltutionfee"
+    canonical_name: "international_tuition_fee_phase1"
+  - json_path: "InternationalTutionFeePhase2"
+    canonical_name: "international_tuition_fee_phase2"
+  - json_path: "InternationalTutionFeePhase3"
+    canonical_name: "international_tuition_fee_phase3"
+  - json_path: "InternationalTutionFeePhase4"
+    canonical_name: "international_tuition_fee_phase4"
+  - json_path: "InternationalTutionFeePhase5"
+    canonical_name: "international_tuition_fee_phase5"
+  - json_path: "internationalfee-Srl-npl-etc"
+    canonical_name: "international_fee_srilanka_nepal_bhutan_bangladesh"
+
+  # --- Eligibility text ---
+  - json_path: "eligibilityindian"
+    canonical_name: "eligibility_indian"
+  - json_path: "eligibilityinternational"
+    canonical_name: "eligibility_international"
+  - json_path: "internationaleligibilitycomments"
+    canonical_name: "eligibility_international_comments"
+  - json_path: "admissionindian"
+    canonical_name: "admission_criteria_indian"
+  - json_path: "minimumcgpa"
+    canonical_name: "minimum_cgpa"
+
+  # --- Metadata / flags ---
+  - json_path: "isScholarship"
+    canonical_name: "scholarship_available"
+  - json_path: "isPhase4"
+    canonical_name: "phase4_open"
+  - json_path: "isPhase5"
+    canonical_name: "phase5_open"
+  - json_path: "isInternational"
+    canonical_name: "international_admission_offered"
+  - json_path: "open"
+    canonical_name: "admission_open"
+  - json_path: "OpenFEETab"
+    canonical_name: "current_open_fee_phase_number"
+  - json_path: "qualification"
+    canonical_name: "entry_qualification"
+  - json_path: "table"
+    canonical_name: "fee_table_name"
+  - json_path: "TestType"
+    canonical_name: "entrance_test_type"  # confirmed to vary widely: "JEE (Main)" for
+                                            # B.Tech, "CEED/NID DAT/NIFT" for design
+                                            # diplomas -- useful signal, not a fee amount
+
+# curriculum: (populated once GetProgramCourseYearly is captured and confirmed
+# the same way GetProgramFeeDetail was -- not guessed here)

@@ -1,0 +1,6 @@
+P102,"{'code': 'P102', 'status': 'CHECKED', 'active_phase': 1, 'mismatches': []}"
+P102-L,"{'code': 'P102-L', 'status': 'CHECKED', 'active_phase': 1, 'mismatches': []}"
+P102-LNP,"{'code': 'P102-LNP', 'status': 'CHECKED', 'active_phase': 1, 'mismatches': []}"
+P102-NNP,"{'code': 'P102-NNP', 'status': 'CHECKED', 'active_phase': 1, 'mismatches': []}"
+P105,"{'code': 'P105', 'status': 'CHECKED', 'active_phase': 1, 'mismatches': []}"
+P105-L,"{'code': 'P105-L', 'status': 'CHECKED', 'active_phase': 1, 'mismatches': []}"

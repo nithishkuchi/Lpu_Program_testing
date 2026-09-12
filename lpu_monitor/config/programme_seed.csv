@@ -1,0 +1,433 @@
+OfficialCode,ProgramId,ProgramName
+P102,641,Diploma Computer Science and Engineering (CSE)
+P102-L,648,Diploma Computer Science and Engineering (CSE) [Lateral Entry]
+P102-LNP,1131,Diploma (Engg.) AI and ML [Lateral Entry]
+P102-NNP,913,Diploma Artificial Intelligence and Machine Learning (AI and ML)
+P105,639,Diploma Electronics and Communication Engineering (ECE)
+P105-L,200,Diploma Electronics and Communication Engineering (ECE) [Lateral Entry]
+P106,638,Diploma (Engg.) Electrical Engineering (EE)
+P107,11,Diploma Civil Engineering (CE)
+P107-L,650,Diploma Civil Engineering (CE) [Lateral Entry]
+P108,640,Diploma Mechanical Engineering (ME)
+P108-L,649,Diploma Mechanical Engineering (ME) [Lateral Entry]
+P109,642,Diploma Automobile Engineering (AE)
+P123,53,B.Sc. Information Technology (IT)
+P123-L,196,B.Sc. Information Technology [Lateral Entry]
+P123-Y,715,B.Sc. Information Technology [2+2 with International Credit Transfer Option]
+P124,59,BCA (Bachelor of Computer Applications)
+P124-L,199,BCA (Bachelor of Computer Applications) Lateral Entry
+P124-NN7,820,BCA Artificial Intelligence and Machine Learning <i> in tie up with</i><b> IBM</b>
+P124-NN8,831,BCA Data Science <i> in tie up with</i><b> IBM</b>
+P124-NN9,918,BCA Cyber Security <i> in tie up with</i><b> Comptia</b>
+P124-NNA,874,BCA Artificial Intelligence and Data Analytics
+P124-NNC,939,BCA Artificial Intelligence and Robotics
+P131,575,B.Tech. Biotechnology Engineering
+P131-L,622,B.Tech. Biotechnology [Lateral Entry]
+P131-NN4,983,B.Tech. (Genetics and Artificial Intelligence)
+P131-Y,714,B.Tech.. Biotechnology Engineering [2+2 with International Credit Transfer Option]
+P132,570,B.Tech. Computer Science and Engineering (CSE)
+P132-HNF,678,B.Tech. Hons. (CSE) - Data Science and Data Engineering <i> in tie up with </i><b> Transorg Analytics</b>
+P132-HNG,679,B.Tech. Hons. (CSE) - Cyber Security and Blockchain <i> in tie up with </i> <b>Comptia</b>
+P132-L,621,B.Tech. Computer Science and Engineering [Lateral Entry]
+P132-LNP,828,B.Tech. (CSE) - Artificial Intelligence and Machine Learning [Lateral Entry]
+P132-NNAA,901,B.Tech. (CSE) - Artificial Intelligence and Data Analytics <i>in tie up with</i><b> Quantiphi</b>
+P132-NNAB,906,B.Tech. (CSE) - Cloud Computing and Gen AI
+P132-NNAG,975,B.Tech. (CSE - AI and System Design) with Global Tech Immersion
+P132-NNAH,1073,B.Tech. (CSE) - Artificial Intelligence and Data Science
+P132-NNAJ,1075,B.Tech. (CSE) - Robotics and Artificial Intelligence
+P132-NNAK,1074,B.Tech. (CSE) - Artificial Intelligence and Machine Learning
+P132-NNK,751,B.Tech. (CSE) - Artificial Intelligence and Data Engineering <i> in tie up with </i> <b>Futurense</b>
+P132-NNL,752,B.Tech. (CSE) - Software Product Engineering <i> in tie up with </i> <b>Kalvium</b>
+P132-NNM,755,B.Tech. (CSE) - Data Science with ML<i> in tie up with</i> <b>UpGrad</b>
+P132-NNS,838,B.Tech. (CSE) - Generative Artificial Intelligence [Gen AI] <i> in tie up with </i> <b>Microsoft</b>
+P132-NNT,842,B.Tech. (CSE) - Computer Science and Business Systems
+P132-Y,711,B.Tech. Computer Science and Engineering (CSE) [2+2 with International Credit Transfer Option]
+P133,571,B.Tech. Information Technology
+P133-L,623,B.Tech. Information Technology [Lateral Entry]
+P135,73,B.Tech. Electronics and Communication Engineering (ECE)
+P135-L,624,B.Tech. Electronics and Communication Engineering [Lateral Entry]
+P135-NN9,937,B.Tech. (ECE - Artificial Intelligence and Automation)
+P135-NNB,969,B.Tech. (ECE) - Semiconductor and VLSI Design <i>in tie up with </i><b>True Chip and Futurewiz</b>
+P135-Y,710,B.Tech. Electronics and Communication Engineering (ECE) [2+2 with International Credit Transfer Option]
+P136,574,B.Tech. Electrical Engineering (EE)
+P136-L,625,B.Tech. Electrical Engineering [Lateral Entry]
+P137,573,B.Tech. Civil Engineering
+P137-L,626,B.Tech. Civil Engineering [Lateral Entry]
+P137-LN1,735,B.Tech. Construction Technology [Lateral Entry] tie up with L&T
+P137-NN3,935,B.Tech. (Civil Engineering - AI and ML)
+P137-Y,713,B.Tech. Civil Engineering [2+2 with International Credit Transfer Option]
+P138,572,B.Tech. Mechanical Engineering
+P138-L,627,B.Tech. Mechanical Engineering [Lateral Entry]
+P138-LN1,628,B.Tech. Mechanical Engineering - Mechatronics [Lateral Entry]
+P138-NN1,577,B.Tech. Mechatronics Engineering
+P138-NNB,891,B.Tech. (ME - Artificial Intelligence and Machine Learning)
+P138-Y,712,B.Tech. Mechanical Engineering [2+2 with International Credit Transfer Option]
+P138-YN1,723,B.Tech. Mechatronics Engineering [2+2 with International Credit Transfer Option]
+P139,576,B.Tech. Automobile Engineering
+P139-L,629,B.Tech. Automobile Engineering [Lateral Entry]
+P139-Y,724,B.Tech. Automobile Engineering [2+2 with International Credit Transfer Option]
+P13A,654,B.Tech. Electrical and Electronics Engineering (EEE)
+P13A-L,630,B.Tech. Electrical and Electronics Engineering [Lateral Entry]
+P13AF,578,B.Tech. Robotics and Automation
+P13AF-L,661,B.Tech. Robotics and Automation [Lateral Entry]
+P13C,580,B.Tech. Chemical Engineering
+P13C-L,631,B.Tech. Chemical Engineering [Lateral Entry]
+P13E,579,B.Tech. Aerospace Engineering
+P13E-L,632,B.Tech. Aerospace Engineering [Lateral Entry]
+P13O,584,B.Tech. Biomedical Engineering
+P13O-L,633,B.Tech. Biomedical Engineering [Lateral Entry]
+P13Q,586,B.Tech. Food Technology
+P13Q-L,634,B.Tech. Food Technology [Lateral Entry]
+P163,118,M.Sc. Information Technology
+P164-HN7,769,MCA Hons. Artificial intelligence and Machine Learning <i> in tie up with</i><b> IBM</b>
+P164-HN8,776,MCA Hons. Data Science <i> in tie up with</i><b> HCL GUVI</b>
+P164-HN9,847,MCA Hons. Cyber Security<i> in tie up with</i> <b>Comptia and Quick Heal</b>
+P164-NN1,120,MCA (Master of Computer Applications)
+P16AJ,821,M.Sc. Data Science <i> in tie up with</i><b> IBM</b>
+P171,131,M.Tech. Biotechnology
+P171-Y,722,M.Tech. Biotechnology [1+1 with International Credit Transfer Option]
+P172,133,M.Tech. Computer Science and Engineering
+P172-YNQ,785,"M.Tech. CSE (by Research) [1+1 with International Credit Transfer Option] tie up with <b> Southern Federal University, Russia</b>"
+P175-NNA,941,M.Tech. Robotics and Artificial Intelligence
+P17AC,554,M.Tech. Data Science and Analytics
+P17AD,555,M.Tech. Information Security and Cyber Forensics
+P17E,746,M.Tech. Aerospace Engineering
+P17F,553,M.Tech. VLSI Design
+P17J,453,M.Tech. Power Systems
+P17N,450,M.Tech. Structural Engineering
+P17Q,465,M.Tech. Food Technology
+P17R,477,M.Tech. Construction Management
+P17X,545,M.Tech. Machine Learning and Artificial intelligence
+P192-NE,982,Integrated B.Tech. (Computer Science and Engineering) - MBA
+P1D2,330,Ph.D. (Computer Science and Engineering) [Full Time Mode]
+P1D2-T,329,Ph.D. (Computer Science and Engineering) [Part Time Mode]
+P1D4,346,Ph.D. (Computer Applications) [Full Time Mode]
+P1D4-T,347,Ph.D. (Computer Applications) [Part Time Mode]
+P1D5,263,Ph.D. (Electronics and Communication Engineering) [Full Time Mode]
+P1D5-T,262,Ph.D. (Electronics and Communication Engineering) [Part Time Mode]
+P1D6,394,Ph.D. (Electrical Engineering) [Full Time Mode]
+P1D6-T,393,Ph.D. (Electrical Engineering) [Part Time Mode]
+P1D7,413,Ph.D. (Civil Engineering)[Full Time Mode]
+P1D7-T,415,Ph.D. (Civil Engineering) [Part Time Mode]
+P1D8,268,Ph.D. (Mechanical Engineering) [Full Time Mode]
+P1D8-T,269,Ph.D. (Mechanical Engineering) [Part Time Mode]
+P1DAL,1130,Ph.D. (Nanotechnology) [Full Time]
+P1DC,492,Ph.D. (Chemical Engineering) [Full Time Mode]
+P1DC-T,494,Ph.D. (Chemical Engineering) [Part Time Mode]
+P1DE,509,Ph.D. (Aerospace Engineering) [Full Time Mode]
+P1DE-T,510,Ph.D. (Aerospace Engineering) [Part Time Mode]
+P1DV,512,Ph.D. (Geospatial Information Science and Technology) [Full Time Mode]
+P1DV-T,511,Ph.D. (Geospatial Information Science and Technology)[Part Time Mode]
+P220,54,B.Sc. Biotechnology
+P223,50,B.Sc. Microbiology
+P224,55,B.Sc. Food Technology
+P22A-NN5,787,B.Sc. Zoology
+P22A-NN6,791,B.Sc. Chemistry
+P22A-NN7,789,B.Sc. Physics
+P22A-NN8,793,B.Sc. Mathematics
+P22A-NN9,919,B.Sc. Computer Science - Cyber Security <i> in tie up with</i><b>Comptia</b>
+P22G,382,B.Sc. Forensic Sciences
+P240-HN3,928,B.Sc. Hons./Hons. with Research (Biotechnology)
+P243-HN3,927,B.Sc. Hons./Hons. with Research (Microbiology)
+P244-HN3,926,B.Sc. Hons./Hons. with Research (Food Technology)
+P245-HN1,976,Bachelor of Nutrition and Dietetics (Honours)
+P24A-HNB,929,B.Sc. Hons./Hons. with Research (Zoology)
+P24A-HNC,925,B.Sc.Hons./Hons. with Research (Physics)
+P24A-HND,923,B.Sc. Hons./Hons. with Research (Chemistry)
+P24A-HNE,921,B.Sc. Hons./Hons. with Research (Mathematics)
+P24B-H,58,B.Sc. Hons. Agriculture
+P24G-H,844,B.Sc. Hons./Hons. with Research (Forensic Sciences)
+P260-H,106,M.Sc. Hons. Biotechnology
+P262-H,176,M.Sc. Hons. Zoology
+P263-H,154,M.Sc. Hons. Microbiology
+P264,140,M.Sc. Food Science and Technology
+P265-NN1,979,Masters of Nutrition and Dietetics
+P266-H,110,M.Sc. Hons. Chemistry
+P268-H,163,M.Sc. Hons. Physics
+P269,151,M.Sc. Mathematics
+P269-NN-1,836,M.A. Mathematics
+P26B-NN1,101,M.Sc. Agronomy (Agriculture)
+P26B-NN2,99,M.Sc. Soil Science (Agriculture)
+P26B-NN3,103,M.Sc. Genetics and Plant Breeding (Agriculture)
+P26B-NN5,361,M.Sc. Entomology (Agriculture)
+P26B-NN6,362,M.Sc. Plant Pathology (Agriculture)
+P26C,324,M.Sc. Fruit Science (Horticulture)
+P26E,371,M.Sc. Vegetable Science (Horticulture)
+P26F-NN1,550,M.Sc. Floriculture and Landscaping (Horticulture)
+P26G,383,M.Sc. Forensic Sciences
+P26G-NN1,1106,M.Sc. Digital Forensics and Cyber Security
+P26J,537,M.Sc. Statistics and Data Analytics
+P29A-NKF,945,B.Sc. B.Ed. (Secondary Stage) - Four Year Integrated Teacher Education Programme (ITEP)
+P2D0,251,Ph.D. (Biotechnology) [Full Time Mode]
+P2D0-T,252,Ph.D. (Biotechnology) [Part Time Mode]
+P2D1,254,Ph.D. (Botany) [Full Time Mode]
+P2D1-T,255,Ph.D. (Botany) [Part Time]
+P2D2,274,Ph.D. (Zoology) [Full Time Mode]
+P2D2-T,275,Ph.D. (Zoology) [Part Time Mode]
+P2D3,270,Ph.D. (Microbiology) [Full Time Mode]
+P2D3-T,271,Ph.D. (Microbiology) [Part Time Mode]
+P2D4-NN1,420,Ph.D. (Food Science and Technology) [Full Time Mode]
+P2D4-TN1,763,Ph.D. (Food Science and Technology) [Part Time Mode]
+P2D6,256,Ph.D. (Chemistry) [Full Time Mode]
+P2D6-T,257,Ph.D. (Chemistry) [Part Time Mode]
+P2D7,290,Ph.D. (Biochemistry) [Full Time Mode]
+P2D7-T,291,Ph.D. (Biochemistry) [Part Time Mode]
+P2D8,272,Ph.D. (Physics) [Full Time Mode]
+P2D8-T,273,Ph.D. (Physics) [Part Time Mode]
+P2D9,267,Ph.D. (Mathematics) [Full Time Mode]
+P2D9-T,266,Ph.D. (Mathematics) [Part Time Mode]
+P2DB-NN1,331,Ph.D. (Agronomy) [Full Time Mode]
+P2DB-NN3,246,Ph.D. (Genetics & Plant Breeding) [Full Time Mode]
+P2DB-NN5,416,Ph.D. (Entomology) [Full Time Mode]
+P2DB-NN6,419,Ph.D. (Plant Pathology) [Full Time Mode]
+P2DB-NN8,549,Ph.D. (Soil Science) [Full Time Mode]
+P2DC-NN1,429,Ph.D. (Fruit Science) [Full Time Mode]
+P2DD,278,Ph.D. (Environmental Sciences) [Full Time Mode]
+P2DD-T,279,Ph.D. (Environmental Sciences) [Part Time Mode]
+P2DE-NN1,548,Ph.D. (Vegetable Science) [Full Time Mode]
+P2DG,529,Ph.D. (Forensic Sciences) [Full Time Mode]
+P2DG-T,530,Ph.D. (Forensic Sciences) [Part Time Mode]
+P2DK,824,Ph.D. (Statistics) [Full Time Mode]
+P2DK-T,880,Ph.D. (Statistics)[Part Time Mode]
+P2DL,251,Ph.D. (Bioinformatics) [Full Time Mode]
+P2DL-T,252,Ph.D. (Bioinformatics) [Part Time Mode]
+P2DS,493,Ph.D. (Molecular Biology and Genetic Engineering) [Full Time Mode]
+P2DS-T,495,Ph.D. (Molecular Biology and Genetic Engineering) [Part Time Mode]
+P301,6,Diploma in Business Administration (DBA)
+P320-NN6,320,BBA (Financial Markets)<i> in tie up with</i><b> NSE Academy</b>
+P320-NNAA,873,BBA (Artificial Intelligence and Machine Learning)
+P320-NNAG,970,"BBA Tourism, Hospitality and Event Management"
+P320-NNB,767,"BBA (Business Analytics) <i>In tie up with</i><b> Institute of Analytics (IoA),UK</b>"
+P320-NNG,496,BBA (International Finance) In tie up with <b>US-CMA</b>
+P320-NNM,636,BBA Airlines and Airport Management
+P320-NNT,818,"BBA (Cargo, Logistics and Supply Chain Management)"
+P320-NNV,826,BBA (International Accounting) <i>In tie up with</i> <b>UK-ACCA</b>
+P320-NNX,833,BBA (Corporate Finance) <i>In tie up with</i> <b>US CPA </b>
+P320-NNY,852,BBA (Digital Marketing and Artificial Intelligence)
+P320-NNZ,853,BBA (Fintech and Artificial Intelligence) <i>in tie up with</i><b> PayTM</b>
+P321,34,BBA (Bachelor of Business Administration)
+P321-L,193,BBA (Bachelor of Business Administration) Lateral Entry
+P321-Y,716,BBA [2+2 with International Credit Transfer Option]
+P322,19,B.Com. (Bachelor of Commerce)
+P322-L,189,B.Com. (Bachelor of Commerce) Lateral Entry
+P322-NN2,448,B.Com. Management Accounting and International Finance Integrated with <b>US-CMA</b>
+P322-NN6,827,B.Com. International Accounting Integrated with <b>UK-ACCA</b>
+P322-NN7,834,B.Com. Corporate Finance Integrated with <b>US CPA</b>
+P322-NNA,943,B.Com. Fintech and Artificial Intelligence <i> in tie up with </i><b> Paytm</b>
+P322-Y,717,B.Com. [2+2 with International Credit Transfer Option]
+P323-NN1,915,B.Sc. Economics
+P324-LN8,887,B.Sc. Hotel and Hospitality Management [Lateral Entry]
+P324-NN6,805,B.Sc. Culinary Arts
+P324-NN8,886,B.Sc. Hotel and Hospitality Management
+P325,28,"B.Sc. Airlines, Tourism and Hospitality"
+P325-L,192,"B.Sc. Airlines, Tourism and Hospitality [Lateral Entry]"
+P340-HNAE,914,BBA Hons./Hons. with Research (Bachelor of Business Administration)
+P340-HNAH,967,BBA (Hons.) (Technology and Management) with Global Immersion
+P340-HNAJ,1056,B.Sc. (Hons.) (Technology and Management) with Global Immersion
+P342-HN9,916,B.Com. Hons./Hons. with Research (Bachelor of Commerce)
+P343-HN2,917,B.Sc. Hons./Hons. with Research (Economics)
+P344,40,Bachelor of Hotel Mngt and Catering Technology (BHMCT)
+P344-L,206,Bachelor of Hotel Management and Catering Technology (BHMCT) Lateral Entry
+P344-Y,718,Bachelor of Hotel Mgt and Catering Technology [2+2 with International Credit Transfer Option]
+P362,115,M.Com. (Master of Commerce)
+P363,119,M.Sc. Economics
+P363-NN-1,837,M.A. Economics
+P370-NN2F,95,MBA International Business
+P370-NN3F,93,MBA Hospital and Healthcare Management
+P370-NN6F,319,MBA Financial Markets <i>in tie up with</i><b> NSE Academy</b>
+P370-NN7F,318,MBA Supply Chain and Logistics <i>in tie up with</i><b> CII Institute of Logistics</b>
+P370-NNAB,876,MBA Data Science and Artificial intelligence
+P370-NNAF,942,MBA Digital and Social Media Marketing
+P370-NNBF,564,MBA Business Analytics <i>in knowledge partnership with</i><b> EY</b>
+P370-NNZ,877,MBA Fintech and Artificial Intelligence
+P371-NNAF,91,MBA (Master of Business Administration)
+P371-YNAF,720,MBA [1+1 with International Credit Transfer Option]
+P375-NN3,878,"MBA Tourism, Aviation and Hospitality"
+P390-NE,912,Integrated BBA - MBA
+P391-HH,79,"BBA, LL.B. Hons."
+P3D1,224,Ph.D. (Management) [Full Time Mode]
+P3D1-T,225,Ph.D. (Management) [Part Time Mode]
+P3D2,216,Ph.D. (Commerce) [Full Time Mode]
+P3D2-T,217,Ph.D. (Commerce) [Part Time Mode]
+P3D3,218,Ph.D. (Economics) [Full Time Mode]
+P3D3-T,220,Ph.D. (Economics) [Part Time Mode]
+P3D4,422,Ph.D. (Hotel Management) [Full Time Mode]
+P3D4-T,425,Ph.D. (Hotel Management) [Part Time Mode]
+P3D5-NN1,473,Ph.D. (Tourism Management) [Full Time Mode]
+P3D5-TN1,474,Ph.D. (Tourism Management) [Part Time Mode]
+P41B,391,Diploma Library and information Sciences (D. Lib.I.Sc.)
+P420,17,Bachelor of Arts (B.A.)
+P420-NN7,1109,B.A. (Social Sciences)
+P421,335,B.A. Fine Arts
+P422-NN5,482,B.A. Music Vocal
+P422-NN7,484,B.A. Theatre
+P42I,1102,B.Sc. (Public Policy) <i>in tie up with</i><b> CRISP (Centre for Research in Schemes and Policies)</b>
+P42K,839,Bachelor of Social Work (BSW)
+P440-HN4,920,B.A. Hons./Hons. with Research (Bachelor of Arts)
+P441,38,Bachelor of Fine Arts (BFA)
+P442-NN5,485,BPA Music Vocal
+P442-NN7,487,BPA Theatre
+P44A-NN3,1076,Bachelor of Psychology (B.Psy)
+P44G-HN2,936,Bachelor in Clinical Psychology (B.Clin. Psy) with Rehabilitation Council Of India (RCI Approved)
+P44K-H,883,BSW Hons./Hons. with Research (Bachelor of Social Work)
+P463,139,M.A. English
+P464,141,M.A. Punjabi
+P465,372,M.A. Hindi
+P466,100,M.A. History
+P467,156,M.A. Sociology
+P468,155,M.A. Political Science
+P469-NN1,109,M.Sc. Geography
+P46A,98,M.A. Psychology
+P46A-NN2,749,M.Sc. Forensic Psychology
+P46A-NN5,1103,M.A. Counselling Psychology
+P46C,1081,M.A. Applied Psychology
+P46G-NN2A,931,Master in Clinical Psychology (M.Clin. Psy) with Rehabilitation Council Of India (RCI Approved)
+P46I-NN1,1082,M.Sc. (Public Policy) <i>in tie up with</i><b> CRISP (Centre for Research in Schemes and Policies)</b>
+P46K,505,Master of Social Work (MSW)
+P471,355,Master of Fine Arts (MFA)
+P472,726,Master of Performing Arts (MPA)
+P490-HH,77,"B.A., LL.B. Hons."
+P490-NK5,944,B.A. B.Ed. (Secondary Stage) - Four Year Integrated Teacher Education Programme (ITEP)
+P49M-NK2,978,B.A. B.Ed. Spl. Ed. (Multiple Disability – Preparatory Stage) - ISITEP
+P4AB,177,Bachelor of Library and information Sciences (B. Lib. I.Sc.)
+P4AE,179,LL.B.
+P4BB,373,Master of Library and information Sciences (M. Lib. I. Sc.)
+P4BE-NN1,708,LL.M.
+P4D1,403,Ph.D. (Fine Arts) [Full Time Mode]
+P4D1-T,402,Ph.D. (Fine Arts) [Part Time Mode]
+P4D2-NN1,533,Ph.D. (Performing Arts-Music) [Full Time Mode]
+P4D2-NNA,535,Ph.D. (Performing Arts-Theatre) [Full Time Mode]
+P4D2-TN1,534,Ph.D. (Performing Arts-Music) [Part Time Mode]
+P4D2-TNA,536,Ph.D. (Performing Arts-Theatre) [Part Time Mode]
+P4D3,219,Ph.D. (English) [Full Time Mode]
+P4D3-T,221,Ph.D. (English) [Part Time Mode]
+P4D4,396,Ph.D. (Punjabi) [Full Time Mode]
+P4D4-T,397,Ph.D. (Punjabi) [Part Time Mode]
+P4D5,399,Ph.D. (Hindi) [Full Time Mode]
+P4D5-T,398,Ph.D. (Hindi) [Part Time Mode]
+P4D6,280,Ph.D. (History) [Full Time Mode]
+P4D6-T,281,Ph.D. (History) [Part Time Mode]
+P4D7,334,Ph.D. (Sociology) [Full Time Mode]
+P4D7-T,333,Ph.D. (Sociology) [Part Time Mode]
+P4D8,424,Ph.D. (Political Science) [Full Time Mode]
+P4D8-T,427,Ph.D. (Political Science) [Part Time Mode]
+P4D9,400,Ph.D. (Geography) [Full Time Mode]
+P4D9-T,401,Ph.D. (Geography) [Part Time Mode]
+P4DA,282,Ph.D. (Psychology) [Full Time Mode]
+P4DA-T,283,Ph.D. (Psychology) [Part Time Mode]
+P4DB,460,Ph.D. (Library Science) [Full Time Mode]
+P4DB-T,461,Ph.D. (Library Science) [Part Time Mode]
+P4DE,423,Ph.D. (Law) [Full Time Mode]
+P4DE-T,426,Ph.D. (Law) [Part Time Mode]
+P4DF,507,Ph.D. (Public Administration) [Full Time Mode]
+P4DF-T,508,Ph.D. (Public Administration) [Part Time Mode]
+P4DK,825,Ph.D. (Social Work) [Full Time Mode]
+P4DK-T,881,Ph.D. (Social Work) [Part Time]
+P501,1,Diploma Medical Lab. Technology (DMLT)
+P521-L,204,B.Sc. Medical Laboratory Technology [Lateral Entry]
+P521-LN5,959,B.Sc. Optometry [Lateral Entry]
+P521-LN6,962,B.Sc. Anaesthesia and Operation Theatre Technology [Lateral Entry]
+P521-LN7,966,B.Sc. Cardiovascular Technology [Lateral Entry]
+P521-LNC,964,B.Sc. Medical Radiology and Imaging Technology [Lateral Entry]
+P540-LNN-D,203,B.Pharm. (Bachelor of Pharmacy) [Lateral Entry]
+P540-NNN-D,67,B.Pharm. (Bachelor of Pharmacy)
+P541-NND,947,Bachelor of Optometry
+P541-NNE,949,Bachelor of Medical Radiology and Imaging Technology
+P541-NNH,955,Bachelor of Cardiovascular Technology
+P541-NNJ,951,Bachelor of Medical Laboratory Science
+P541-NNK,953,Bachelor of Anaesthesia and Operation Theatre Technology
+P542-L,205,B.PT (Bachelor of Physiotherapy) [Lateral Entry]
+P542-NNCA,948,Bachelor of Physiotherapy (B.PT)
+P548,1077,B.Sc. (Clinical Embryology)
+P561-NNM,956,Master of Medical Laboratory Science (Medical Microbiology)
+P568,677,M.Sc. Clinical Embryology <i>in tie up with</i><b> Cooper Surgical India (Origio India Pvt. Ltd)</b>
+P570-NN1-D,165,M.Pharm. Pharmaceutics
+P570-NN2-D,166,M.Pharm. Pharmacology
+P570-NN3-D,557,M.Pharm. Pharmaceutical Chemistry
+P570-NNB-D,470,M.Pharm. Pharmaceutical Analysis
+P570-NND-D,558,M.Pharm. Pharmacy Practice <i>in tie up with</i><b> CMC Ludhiana</b>
+P572-NNDA,950,M.PT (Musculoskeletal Science)
+P572-NNEA,954,M.PT (Neuroscience)
+P572-NNFA,958,M.PT (Sports Science)
+P580-NNLA,1080,Pharm.D (PB) <i>in tie up with</i><b> Capitol Hospital Jalandhar</b>
+P5D0-NN1,208,Ph.D. (Pharmaceutics) [Full Time Mode]
+P5D0-NN2,301,Ph.D. (Pharmacology) [Full Time Mode]
+P5D0-NN3,297,Ph.D. (Pharmaceutical Chemistry) [Full Time Mode]
+P5D0-NN6,299,Ph.D. (Pharmacognosy) [Full Time Mode]
+P5D0-NN8,288,Ph.D. (Ayurvedic Pharmacy) [Full Time Mode]
+P5D0-NNB,742,Ph.D. (Pharmaceutical Analysis) [Full Time Mode]
+P5D0-NND,731,Ph.D. (Pharmacy Practice) [Full Time Mode]
+P5D0-TN1,209,Ph.D. (Pharmaceutics) [Part Time Mode]
+P5D0-TN2,302,Ph.D. (Pharmacology) [Part Time Mode]
+P5D0-TN3,298,Ph.D. (Pharmaceutical Chemistry) [Part Time Mode]
+P5D0-TN6,300,Ph.D. (Pharmacognosy) [Part Time Mode]
+P5D0-TN8,289,Ph.D. (Ayurvedic Pharmacy) [Part Time Mode]
+P5D0-TNB,743,Ph.D. (Pharmaceutical Analysis) [Part Time Mode]
+P5D0-TND,732,Ph.D. (Pharmacy Practice) [Part Time Mode]
+P5D2,404,Ph.D. (Physiotherapy) [Full Time Mode]
+P5D2-T,405,Ph.D. (Physiotherapy) [Part Time Mode]
+P5D4,430,Ph.D. (Clinical Microbiology) [Full Time Mode]
+P5D4-T,431,Ph.D. (Clinical Microbiology) [Part Time Mode]
+P5D5,433,Ph.D. (Clinical Biochemistry) [Full Time Mode]
+P5D5-T,432,Ph.D. (Clinical Biochemistry) [Part Time Mode]
+P5D8,892,Ph.D. (Clinical Embryology) [Full Time Mode]
+P5K0-NNKA,1079,Pharm.D (Doctor of Pharmacy) <i>in tie up with</i><b> Capitol Hospital Jalandhar</b>
+P622,41,B.Sc. Health and Physical Education
+P625,434,Bachelor of Physical Education and Sports (BPES)
+P661,378,M.A. Education
+P6A1,124,B.Ed. (Bachelor of Education)
+P6A2,168,B.P.Ed. (Bachelor of Physical Education)
+P6B2,169,M.P.Ed. (Master of Physical Education)
+P6D1,235,Ph.D. (Education) [Full Time Mode]
+P6D1-T,236,Ph.D. (Education) [Part Time Mode]
+P6D2,237,Ph.D. (Physical Education) [Full Time Mode]
+P6D2-T,238,Ph.D. (Physical Education) [Part Time Mode]
+P701,3,Diploma Architectural Assistantship (DAA)
+P722-LNF,869,B.Sc. Fashion Design [Lateral Entry]
+P722-LNJ,867,B.Sc. Interior and Furniture Design [Lateral Entry]
+P722-NNF,856,B.Sc. Fashion Design
+P722-NNG,865,B.Sc. Gaming Design
+P722-NNH,866,B.Sc. Graphics Design
+P722-NNJ,854,B.Sc. Interior and Furniture Design
+P722-NNL,857,B.Sc. Animation and VFX Design
+P724,32,B.A. Journalism and Mass Communication
+P727,314,B.Sc. Film and TV Production
+P741,15,B.Architecture (Bachelor of Architecture)
+P742-LN1,668,B.Design Interior and Furniture [Lateral Entry]
+P742-LN2,322,B.Design Product and Industrial [Lateral Entry]
+P742-LN3,190,B.Design Fashion [Lateral Entry]
+P742-LNM,868,B.Design User Interface/ User Experience (UI/UX) [Lateral Entry]
+P742-NN1,26,B.Design Interior and Furniture
+P742-NN2,25,B.Design Product and Industrial
+P742-NN3,24,B.Design Fashion
+P742-NN5,29,B.Design Graphics
+P742-NN6,30,B.Design Film and TV Production
+P742-NN8,498,B.Design Gaming
+P742-NNL,858,B.Design Animation and VFX
+P742-NNM,855,B.Design User interface/ User Experience (UI/UX)
+P742-YN3,719,B.Design Fashion [2+2 with International Credit Transfer Option]
+P762-NNF,859,M.Sc. Fashion Design
+P762-NNJ,860,M.Sc. Interior and Furniture Design
+P762-NNL,863,M.Sc. Animation and VFX Design
+P762-NNM,870,M.Sc. UI/UX Design
+P762-NNP,981,Master of Fashion Management (MFM)
+P764,149,M.A. Journalism and Mass Communication
+P767,148,M.Sc. Film and TV Production
+P772-NN1,146,M.Design Interior and Furniture
+P793-ND2,946,Integrated B.Tech. - M.Tech. (Urban and Regional Planning)
+P7D1,527,Ph.D. (Architecture) [Full Time Mode]
+P7D1-T,531,Ph.D. (Architecture) [Part Time Mode]
+P7D2-NN1,809,Ph.D. (Interior and Furniture Design) [Full Time Mode]
+P7D2-NN2,811,Ph.D. (Product and Industrial Design) [Full Time Mode]
+P7D2-NN3,807,Ph.D. (Fashion) [Full Time Mode]
+P7D2-NN6,816,Ph.D. (Film and TV Production) [Full Time Mode]
+P7D2-NN9,813,Ph.D. (User Experience) [Full Time Mode]
+P7D2-TN1,810,Ph.D. (Interior and Furniture Design) [Part Time Mode]
+P7D2-TN2,812,Ph.D. (Product and Industrial Design) [Part Time Mode]
+P7D2-TN3,808,Ph.D. (Fashion) [Part Time Mode]
+P7D2-TN6,817,Ph.D. (Film and TV Production) [Part Time Mode]
+P7D2-TN9,814,Ph.D. (User Experience) [Part Time Mode]
+P7D3,330,Ph.D. (Planning) [Full time mode]
+P7D3-T,329,Ph.D. (Planning) [Part Time Mode]
+P7D4,276,Ph.D. (Journalism and Mass Communication) [Full Time Mode]
+P7D4-T,277,Ph.D. (Journalism and Mass Communication) [Part Time Mode]

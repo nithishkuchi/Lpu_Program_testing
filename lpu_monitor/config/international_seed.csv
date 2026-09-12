@@ -1,0 +1,295 @@
+official_code,programme_name
+P105,Diploma (Engg.) Electronics and Comm. Engg. (ECE)
+P102,Diploma (Engg.) Computer Sc. and Engg. (CSE)
+P102-NNP,Diploma (Engg.) AI and ML
+P108,Diploma (Engg.) Mechanical Engg. (ME)
+P109,Diploma (Engg.) Automobile Engg. (AE)
+P107,Diploma (Engg.) Civil Engg. (CE)
+P106,Diploma (Engg.) Electrical Engg. (EE)
+P301,Diploma in Business Administration
+P701,Diploma in Architectural Assistantship
+P501,Diploma in Medical Lab. Technology (DMLT)
+P135,B.Tech. (Electronics and Communication Engineering)
+P135-Y,B Tech (ECE) [ 2+2 with international credit transfer option]
+P135-NNB,B.Tech. (ECE - Semiconductor and VLSI Design)
+P135-NN9,B.Tech (ECE - Artificial Intelligence and Automation)
+P132,B.Tech. (Computer Science and Engineering)
+P132-Y,B Tech (CSE) [ 2+2 with international credit transfer option]
+P132-NNM,B.Tech. CSE - Data Science with ML
+P132-NNK,B.Tech. (CSE - AI and Data Engineering)
+P132-NNL,B.Tech. (CSE - Software Product Engineering)
+P132-NNAA,B.Tech (CSE - AI and Data Analytics)
+P132-NNAH,B.Tech. (CSE - Artificial Intelligence and Data Science)
+P132-NNAB,B.Tech (CSE - Cloud Computing and Gen AI)
+P132-NNAK,B.Tech. (CSE - Artificial Intelligence and Machine Learning)
+P132-NNS,B.Tech. (CSE- Generative AI) [Gen AI]
+P132-NNT,B.Tech. (CSE - Computer Science and Business Systems)
+P132-NNAJ,B.Tech. (CSE - Robotics and Artificial Intelligence)
+P132-NNAG,B.Tech (CSE - AI and System Design) with Global Tech Immersion
+P132-HNF,B.Tech. (Hons.) (CSE- Data Science and Data Engineering)
+P132-HNG,B.Tech. (Hons.) (CSE- Cyber Security and Block Chain)
+P192-NE,Integrated B.Tech. (Computer Science and Engineering) - MBA
+P133,B.Tech. (Information Technology)
+P138,B.Tech. (Mechanical Engineering)
+P138-Y,B Tech (ME) [2+2 with international credit transfer option]
+P138-NN1,B.Tech. (ME - Mechatronics)
+P138-YN1,B.Tech. (ME - Mechatronics) [2+2 with international credit transfer option]
+P138-NNB,B.Tech. (ME - Artificial Intelligence and Machine Learning)
+P13E,B.Tech. (Aerospace Engineering)
+P137,B.Tech. (Civil Engineering)
+P137-Y,B Tech (CE) [ 2+2 with international credit transfer option]
+P137-NN3,B.Tech (Civil - AI and ML)
+P136,B.Tech. (Electrical Engineering)
+P13A,B.Tech. (Electrical and Electronics Engineering)
+P13AF,B.Tech. (Robotics and Automation)
+P131,B.Tech. (Biotechnology)
+P131-Y,B Tech (Biotechnology) [ 2+2 with international credit transfer option]
+P131-NN4,B.Tech. (Genetics and Artificial Intelligence)
+P13Q,B.Tech. (Food Technology)
+P13O,B.Tech. (Biomedical Engineering)
+P139,B.Tech. (Automobile Engineering)
+P139-Y,B.Tech. (Automobile Engineering) [ 2+2 with international credit transfer option]
+P13C,B.Tech. (Chemical Engineering)
+P124,BCA
+P124-NN9,BCA (Cyber Security)
+P124-NN8,BCA (Data Science)
+P124-NN7,BCA (Artificial Intelligence and Machine Learning)
+P124-NNA,BCA (Artificial Intelligence and Data Analytics)
+P124-NNC,BCA (AI and Robotics)
+P22A-NN9,B.Sc. (Computer Science - Cyber Security)
+P123,B.Sc. (Information Technology)
+P123-Y,B Sc (IT) [2+2 with international credit transfer option]
+P24B-H,B.Sc. (Hons.) Agriculture
+P244-HN3,B.Sc. (Hons.)/ (Hons with Research) Food Technology
+P224,B.Sc. (Food Technology)
+P245-HN1,Bachelor of Nutrition and Dietetics (Honours)
+P240-HN3,B.Sc. (Hons.)/ (Hons with Research) Biotechnology
+P220,B.Sc. (Biotechnology)
+P243-HN3,B.Sc. (Hons.)/ (Hons with Research) Microbiology
+P223,B.Sc. (Microbiology)
+P24G-H,B.Sc. (Hons.)/ (Hons with Research) Forensic Sciences
+P22G,B.Sc. (Forensic Sciences)
+P24A-HNB,B.Sc. (Hons.)/ (Hons with Research) Zoology
+P22A-NN5,B.Sc. (Zoology)
+P24A-HNC,B.Sc. (Hons.)/ (Hons with Research) Physics
+P22A-NN7,B.Sc. (Physics)
+P24A-HND,B.Sc. (Hons.)/ (Hons with Research) Chemistry
+P22A-NN6,B.Sc. (Chemistry)
+P24A-HNE,B.Sc. (Hons.)/ (Hons with Research) Mathematics
+P22A-NN8,B.Sc. (Mathematics)
+P321,BBA
+P321-Y,BBA [ 2+2 with international credit transfer option]
+P340-HNAE,BBA (Hons.)/ (Hons. with Research)
+P340-HNAH,BBA (Hons.) (Technology and Management) with Global Immersion
+P390-NE,Integrated BBA - MBA
+P320-NN6,BBA (Financial Markets)
+P320-NNG,BBA (International Finance)
+P320-NNB,BBA (Business Analytics)
+P320-NNV,BBA (International Accounting)
+P320-NNX,BBA (Corporate Finance)
+P320-NNY,BBA (Digital Marketing and Artificial Intelligence)
+P320-NNZ,BBA (Fintech and Artificial Intelligence)
+P320-NNAA,BBA (Artificial Intelligence and Machine Learning)
+P320-NNT,"BBA (Cargo, Logistics and Supply Chain Management)"
+P322,B.Com.
+P322-Y,B.Com [ 2+2 with international credit transfer option]
+P342-HN9,B.Com. (Hons.)/ (Hons. with Research)
+P322-NN2,B.Com. (Management Accounting and International Finance)
+P322-NN6,B.Com. (International Accounting)
+P322-NN7,B.Com. (Corporate Finance)
+P322-NNA,B.Com. (Fintech and Artificial Intelligence)
+P323-NN1,B.Sc. (Economics)
+P343-HN2,B.Sc. (Hons.)/ (Hons with Research) Economics
+P490-HH,"B.A., LL.B.(Hons.) {No exit/discontinue option after B.A.}"
+P391-HH,"BBA, LL.B. (Hons.) {No exit/discontinue option after BBA}"
+P325,"B.Sc. (Airlines, Tourism and Hospitality)"
+P320-NNAG,"BBA (Tourism, Hospitality and Event Management)"
+P320-NNM,BBA (Airlines and Airport Management)
+P324-NN8,B.Sc. (Hotel and Hospitality Management)
+P344,Bachelor of Hotel Mgt and Catering Technology (BHMCT)
+P344-Y,Bachelor of Hotel Mgt and Catering Technology (BHMCT) [ 2+2 with international credit transfer option]
+P324-NN6,B.Sc. (Culinary Arts)
+P741,B. Arch.
+P793-ND2,Integrated B.Tech - M.Tech (Urban and Regional Planning)
+P722-NNJ,B.Sc. (Interior and Furniture Design)
+P742-NN1,B.Design (Interior and Furniture)
+P742-NN2,B.Design (Product and Industrial)
+P742-NNM,B.Design (UI/UX)
+P722-NNF,B.Sc. (Fashion Design)
+P742-NN3,B.Design (Fashion)
+P742-YN3,B Design (Fashion) [ 2+2 with international credit transfer option]
+P722-NNL,B.Sc. (Animation and VFX Design)
+P742-NNL,B.Design (Animation and VFX)
+P722-NNG,B.Sc. (Gaming Design)
+P742-NN8,B.Design (Gaming)
+P722-NNH,B.Sc. (Graphics Design)
+P742-NN5,B.Design (Graphics)
+P421,B.A. (Fine Arts)
+P441,Bachelor of Fine Arts (BFA)
+P724,B.A. (Journalism and Mass Communication)
+P727,B.Sc. (Film and TV Production)
+P742-NN6,B.Design (Film and TV Production)
+P41B,Diploma in Library and Information Sciences (D. Lib.I.Sc.)
+P422-NN5,B.A. (Music Vocal)
+P422-NN7,B.A. (Theatre)
+P442-NN5,BPA (Music Vocal)
+P442-NN7,BPA (Theatre)
+P44G-HN2,Bachelor in Clinical Psychology (B.Clin. Psy)
+P44A-NN3,Bachelor of Psychology (B.Psy)
+P420,Bachelor of Arts (B.A.)
+P440-HN4,B.A. (Hons.)/ (Hons. with Research) English Political Science History Sociology Geography Psychology Punjabi Public Administration
+P420-NN7,B.A. (Social Science)
+P42K,Bachelor of Social Work (BSW)
+P44K-H,Bachelor of Social Work (Hons.)/ (Hons with Research)
+P42I,B.Sc. (Public Policy)
+P622,B.Sc. (Health and Physical Education)
+P625,Bachelor of Physical Education and Sports (BPES)
+P49M-NK2,B.A. B.Ed. Spl. Ed. (Multiple Disability – Preparatory Stage) - ISITEP
+P490-NK5,B.A. B.Ed. (Secondary Stage) - Four Year Integrated Teacher Education Programme (ITEP)
+P29A-NKF,B.Sc. B.Ed. (Secondary Stage) - Four Year Integrated Teacher Education Programme (ITEP)
+P540-NNN-D,B.Pharm.
+P5K0-NNKA,Pharm. D (Doctor of Pharmacy)
+P542-NNCA,Bachelor of Physiotherapy (B.PT)
+P541-NNJ,Bachelor of Medical Laboratory Science
+P541-NNK,Bachelor of Anaesthesia and Operation Theatre Technology
+P541-NND,Bachelor of Optometry
+P541-NNH,Bachelor of Cardiovascular Technology
+P541-NNE,Bachelor of Medical Radiology and Imaging Technology
+P548,B.Sc. (Clinical Embryology)
+P105-L,Diploma (Engg.) Electronics and Comm. Engg. (ECE) [Lateral Entry]
+P102-L,Diploma (Engg.) Computer Sc. and Engg. (CSE) [Lateral Entry]
+P102-LNP,Diploma (Engg.) AI and ML [Lateral Entry]
+P108-L,Diploma (Engg.) Mechanical Engg. (ME) [Lateral Entry]
+P107-L,Diploma (Engg.) Civil Engg. (CE) [Lateral Entry]
+P135-L,B.Tech. (Electronics and Communication Engineering) [Lateral Entry]
+P132-L,B.Tech. (Computer Science and Engineering) [Lateral Entry]
+P132-LNP,B.Tech. (CSE - AI and ML) [Lateral Entry]
+P133-L,B.Tech. (Information Technology) [Lateral Entry]
+P138-L,B.Tech. (Mechanical Engineering) [Lateral Entry]
+P138-LN1,B.Tech. (ME - Mechatronics) [Lateral Entry]
+P137-L,B.Tech. (Civil Engineering) [Lateral Entry]
+P136-L,B.Tech. (Electrical Engineering) [Lateral Entry]
+P13A-L,B.Tech. (Electrical and Electronics Engineering) [Lateral Entry]
+P13AF-L,B.Tech. (Robotics and Automation) [Lateral Entry]
+P131-L,B.Tech. (Biotechnology) [Lateral Entry]
+P13Q-L,B.Tech. (Food Technology) [Lateral Entry]
+P139-L,B.Tech. (Automobile Engineering) [Lateral Entry]
+P13E-L,B.Tech. (Aerospace Engineering) [Lateral Entry]
+P13C-L,B.Tech. (Chemical Engineering) [Lateral Entry]
+P13O-L,B.Tech. (Biomedical Engineering) [Lateral Entry]
+P124-L,BCA [Lateral Entry]
+P123-L,B.Sc. (Information Technology) [Lateral Entry]
+P321-L,BBA [Lateral Entry]
+P322-L,B.Com. [Lateral Entry]
+P324-LN8,B.Sc. (Hotel and Hospitality Management) [Lateral Entry]
+P344-L,Bachelor of Hotel Mgt and Catering Technology (BHMCT) [Lateral Entry]
+P325-L,"B.Sc. (Airlines, Tourism and Hospitality) [Lateral Entry]"
+P722-LNJ,B.Sc. (Interior and Furniture Design) [Lateral Entry]
+P742-LN1,B.Design (Interior and Furniture) [Lateral Entry]
+P742-LN2,B.Design (Product and Industrial) [Lateral Entry]
+P742-LNM,B.Design (UI/UX) [Lateral Entry]
+P722-LNF,B.Sc. (Fashion Design) [Lateral Entry]
+P742-LN3,B.Design (Fashion) [Lateral Entry]
+P540-LNN-D,B.Pharm. [Lateral Entry]
+P542-L,Bachelor of Physiotherapy (BPT) [Lateral Entry]
+P521-L,B.Sc. (Medical Laboratory Technology) [Lateral Entry]
+P521-LN5,B.Sc. (Optometry) [Lateral Entry]
+P521-LN6,B.Sc. (Anaesthesia and Operation Theatre Technology) [Lateral Entry]
+P521-LNC,B.Sc. (Medical Radiology and Imaging Technology) [Lateral Entry]
+P521-LN7,B.Sc. (Cardiovascular Technology) [Lateral Entry]
+P371-NNAF,MBA
+P371-YNAF,MBA [ 1+1 with international credit transfer option]
+P370-NN2F,MBA (International Business)
+P370-NN3F,MBA (Hospital and Healthcare Management)
+P370-NNAF,MBA (Digital and Social Media Marketing)
+P370-NNBF,MBA (Business Analytics)
+P370-NN7F,MBA (Supply Chain and Logistics)
+P370-NN6F,MBA (Financial Markets)
+P370-NNAB,MBA (Data Science and Artificial Intelligence)
+P370-NNZ,MBA (Fintech and Artificial Intelligence)
+P362,M.Com.
+P363,M.Sc. (Economics)
+P363-NN-1,M.A. (Economics)
+P4AE,LL.B.
+P4BE-NN1,LL.M.
+P375-NN3,"MBA (Tourism, Aviation and Hospitality)"
+P762-NNJ,M.Sc. (Interior and Furniture Design)
+P772-NN1,M.Design (Interior and Furniture)
+P762-NNM,M.Sc. (UI/UX Design)
+P762-NNF,M.Sc. (Fashion Design)
+P762-NNP,Master of Fashion Management (MFM)
+P762-NNL,M.Sc. (Animation and VFX Design)
+P471,Master of Fine Arts (MFA)
+P764,M.A. (Journalism and Mass Communication)
+P767,M.Sc. (Film and TV Production)
+P472,Master of Performing Arts (MPA)
+P466,M.A. (History)
+P46A,M.A. (Psychology)
+P46C,M.A. (Applied Psychology)
+P46G-NN2A,Master in Clinical Psychology (M.Clin. Psy)
+P46A-NN5,M.A. (Counselling Psychology)
+P46A-NN2,M.Sc. (Forensic Psychology)
+P467,M.A. (Sociology)
+P46K,Master of Social Work (MSW)
+P468,M.A. (Political Science)
+P46I-NN1,M.Sc. (Public Policy)
+P469-NN1,M.Sc. (Geography)
+P463,M.A. (English)
+P4AB,Bachelor of Library and Information Sciences (B. Lib. I.Sc.)
+P4BB,Master of Library and Information Sciences (M. Lib. I. Sc.)
+P6A1,B.Ed.
+P661,M.A. (Education)
+P6A2,B.P.Ed.
+P6B2,M.P.Ed.
+P172,M.Tech. (Computer Science and Engineering)
+P172-YNQ,M.Tech. (Computer Science and Engineering) (by Research) [1+1 with international credit transfer option]
+P17X,M.Tech. (Machine Learning and Artificial Intelligence)
+P17AC,M.Tech. (Data Science and Analytics)
+P17AD,M.Tech. (Information Security and Cyber Forensics)
+P17E,M.Tech. (Aerospace Engineering)
+P17N,M.Tech. (Structural Engineering)
+P17R,M.Tech. (Construction Management)
+P17F,M.Tech. (VLSI Design)
+P175-NNA,M.Tech (Robotics and Artificial Intelligence)
+P17J,M.Tech. (Power Systems)
+P17Q,M.Tech. (Food Technology)
+P171,M.Tech. (Biotechnology)
+P171-Y,M Tech (Biotechnology) [ 1+1 with international credit transfer option]
+P164-NN1,MCA
+P164-HN8,MCA (Hons.) (Data Science)
+P164-HN7,MCA (Hons.) (Artificial Intelligence and Machine Learning)
+P164-HN9,MCA (Hons.) (Cyber Security)
+P163,M.Sc. (Information Technology)
+P16AJ,M.Sc (Data Science)
+P26B-NN1,M.Sc. (Agri.) Agronomy
+P26B-NN2,M.Sc. (Agri.) Soil Science
+P26B-NN3,M.Sc. (Agri.) Genetics and Plant Breeding
+P26B-NN5,M.Sc. (Agri.) Entomology
+P26B-NN6,M.Sc. (Agri.) Plant Pathology
+P26E,M.Sc. (Hort.) Vegetable Science
+P26C,M.Sc. (Hort.) Fruit Science
+P26F-NN1,M.Sc. (Hort.) Floriculture and Landscaping
+P264,M.Sc. (Food Science and Technology)
+P265-NN1,Masters of Nutrition and Dietetics
+P260-H,M.Sc. (Hons.) Biotechnology
+P263-H,M.Sc. (Hons.) Microbiology
+P26G,M.Sc. (Forensic Sciences)
+P26G-NN1,M.Sc. (Digital Forensics and Cyber Security)
+P262-H,M.Sc. (Hons.) Zoology
+P2L2,M.Sc. (Zoology)
+P268-H,M.Sc. (Hons.) Physics
+P266-H,M.Sc. (Hons.) Chemistry
+P269,M.Sc. (Mathematics)
+P269-NN-1,M.A. (Mathematics)
+P26J,M.Sc. (Statistics and Data Analytics)
+P570-NN1-D,M.Pharm. (Pharmaceutics)
+P570-NN2-D,M.Pharm. (Pharmacology)
+P570-NNB-D,M.Pharm. (Pharmaceutical Analysis)
+P570-NN3-D,M.Pharm. (Pharmaceutical Chemistry)
+P570-NND-D,M.Pharm. (Pharmacy Practice)
+P580-NNLA,Pharm.D (PB)
+P572-NNDA,M.PT (Musculoskeletal Science)
+P572-NNEA,M.PT (Neuroscience)
+P572-NNFA,M.PT (Sports Science)
+P561-NNM,Master of Medical Laboratory Science (Medical Microbiology)
+P568,M.Sc. (Clinical Embryology)

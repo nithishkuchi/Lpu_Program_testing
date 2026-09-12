@@ -1,0 +1,875 @@
+P105,
+P102,
+P102-NNP,
+P108,
+P109,
+P107,
+P106,
+P301,
+P701,
+P501,
+P135,
+P135-Y,
+P135-NNB,
+P135-NN9,
+P132,
+P132-Y,
+P132-NNM,
+P132-NNK,
+P132-NNAA,
+P132-NNAH,
+P132-NNAB,
+P132-NNAK,
+P132-NNS,
+P132-NNT,
+P132-NNAJ,
+P132-NNAG,
+P132-HNF,
+P132-HNG,
+P192-NE,
+P133,
+P138,
+P138-Y,
+P138-NN1,
+P138-YN1,
+P138-NNB,
+P13E,
+P137,
+P137-Y,
+P137-NN3,
+P136,
+P13A,
+P13AF,
+P131,
+P131-Y,
+P131-NN4,
+P13Q,
+P13O,
+P139,
+P139-Y,
+P13C,
+P124,
+P124-NN9,
+P124-NN8,
+P124-NN7,
+P124-NNA,
+P124-NNC,
+P22A-NN9,
+P123,
+P123-Y,
+P24B-H,"Last Date of Admission:
+expected: 20th August 2026
+live: 31st August 2026"
+P244-HN3,
+P224,
+P245-HN1,
+P240-HN3,
+P220,
+P243-HN3,
+P223,
+P24G-H,
+P22G,
+P24A-HNB,
+P22A-NN5,
+P24A-HNC,
+P22A-NN7,
+P24A-HND,
+P22A-NN6,
+P24A-HNE,
+P22A-NN8,
+P321,
+P321-Y,
+P340-HNAE,
+P340-HNAH,
+P390-NE,
+P320-NN6,
+P320-NNG,
+P320-NNB,
+P320-NNV,
+P320-NNX,
+P320-NNY,
+P320-NNZ,
+P320-NNAA,
+P320-NNT,
+P322,
+P322-Y,
+P342-HN9,
+P322-NN2,
+P322-NN6,
+P322-NN7,
+P322-NNA,
+P323-NN1,
+P343-HN2,
+P490-HH,
+P391-HH,
+P325,
+P320-NNAG,
+P320-NNM,
+P324-NN8,
+P344,
+P344-Y,
+P324-NN6,
+P741,"Last Date of Admission:
+expected: 20th August 2026
+live: 31st August 2026"
+P793-ND2,
+P722-NNJ,
+P742-NN1,
+P742-NN2,
+P742-NNM,
+P722-NNF,
+P742-NN3,
+P742-YN3,
+P722-NNL,
+P742-NNL,
+P722-NNG,
+P742-NN8,
+P722-NNH,
+P742-NN5,
+P421,
+P441,
+P724,
+P727,
+P742-NN6,
+P41B,
+P422-NN5,
+P422-NN7,
+P442-NN5,
+P442-NN7,
+P44G-HN2,"Last Date of Admission:
+expected: 10th July 2026
+live: 31st July 2026"
+P44A-NN3,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 20th August 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: Till 22nd August 2026
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 20th August 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 20th August 2026"
+P420,
+P440-HN4,
+P420-NN7,
+P42K,
+P44K-H,
+P42I,
+P622,
+P625,
+P49M-NK2,"Last Date of Admission:
+expected: 20th August 2026
+live: 31st August 2026"
+P490-NK5,"Last Date of Admission:
+expected: 20th August 2026
+live: 31st August 2026"
+P29A-NKF,"Last Date of Admission:
+expected: 20th August 2026
+live: 31st August 2026"
+P540-NNN-D,
+P5K0-NNKA,
+P542-NNCA,
+P541-NNJ,
+P541-NNK,"Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026
+
+Dates of Scholarship Examination:
+expected: Till 22nd August 2026
+live: Ongoing
+
+Scholarship Result:
+expected: Within 3 working days
+live: Within 4 working days of appearing for the exam"
+P541-NND,
+P541-NNH,
+P541-NNE,
+P548,
+P105-L,
+P102-L,
+P102-LNP,
+P108-L,
+P107-L,
+P135-L,
+P132-L,
+P132-LNP,
+P133-L,
+P138-L,
+P138-LN1,
+P137-L,
+P137-LN1,
+P136-L,
+P13A-L,
+P13AF-L,
+P131-L,
+P13Q-L,
+P139-L,
+P13E-L,
+P13C-L,
+P13O-L,
+P124-L,
+P123-L,
+P321-L,
+P322-L,
+P324-LN8,
+P344-L,
+P325-L,
+P722-LNJ,
+P742-LN1,
+P742-LN2,
+P742-LNM,
+P722-LNF,
+P742-LN3,
+P540-LNN-D,
+P542-L,
+P521-L,
+P521-LN5,
+P521-LN6,
+P521-LNC,
+P521-LN7,
+P371-NNAF,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P371-YNAF,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P370-NN2F,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P370-NN3F,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P370-NNAF,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P370-NNBF,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P370-NN7F,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P370-NN6F,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P370-NNAB,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P370-NNZ,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P362,
+P363,
+P363-NN-1,
+P4AE,
+P4BE-NN1,
+P375-NN3,"Last date to upload Video Essay:
+expected: Exam date + 1 day For Example : If candidate has appeared for exam on 13th August, then last date to upload Video essay is 14th August.
+live: Exam date + 1 day For example, If a candidate has appeared for the exam on 13th August, then last date to upload Video Essay is 14th August 2026.
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: Candidates may choose any available interview slot within 2–7 days after the declaration of the LPUNEST result. For example, if the result is declared on 10th August 2026, the interview may be scheduled on any day from 12th August to 17th August 2026.
+
+Dates of Interview:
+expected: 
+live: Within 24 working hours
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th August 2026"
+P762-NNJ,
+P772-NN1,
+P762-NNM,
+P762-NNF,
+P762-NNP,
+P762-NNL,
+P471,
+P764,
+P767,
+P472,
+P466,
+P46A,
+P46C,
+P46G-NN2A,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 21st October 2025 onwards*
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 10th December 2025
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 25th March 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 20th January 2026 onwards
+
+Display of Result:
+expected: Within 3 working days
+live: 20th April 2026
+
+Slot booking for Interview:
+expected: Candidate can opt. for any preferred interview slot within 2-7 days after the declaration of LPUNEST result subject to last date 19th August. For Example: If result is declared on 10th August 2026, Interview can be scheduled on any day between 12th to 17th August 2026.
+live: 3rd April to 6th April 2026
+
+Dates of Interview:
+expected: 
+live: 9th April to 19th April 2026
+
+Result for Interview:
+expected: Within 24 working hours
+live: 20th April 2026
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 25th April 2026"
+P46A-NN5,
+P46A-NN2,
+P467,
+P46K,
+P468,
+P46I-NN1,
+P469-NN1,
+P463,
+P4AB,
+P4BB,
+P465,
+P464,
+P6A1,"Last Date of Admission:
+expected: 20th August 2026
+live: 31st August 2026"
+P661,"Last Date of Admission:
+expected: 20th August 2026
+live: 31st August 2026"
+P6A2,
+P6B2,
+P172,
+P172-YNQ,
+P17X,
+P17AC,
+P17AD,
+P17E,
+P17N,
+P17R,
+P17F,
+P175-NNA,
+P17J,
+P17Q,
+P171,
+P171-Y,
+P164-NN1,
+P164-HN8,
+P164-HN7,
+P164-HN9,
+P163,
+P16AJ,
+P26B-NN1,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 31st July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P26B-NN2,
+P26B-NN3,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 31st July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P26B-NN5,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 31st July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P26B-NN6,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 31st July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P26E,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 31st July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P26C,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 31st July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P26F-NN1,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 31st July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P264,
+P265-NN1,
+P260-H,
+P263-H,
+P26G,
+P26G-NN1,
+P262-H,
+P268-H,
+P266-H,
+P269,
+P269-NN-1,
+P26J,
+P570-NN1-D,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 15th July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 4 working days of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 20th July 2026"
+P570-NN2-D,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 15th July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 4 working days of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 20th July 2026"
+P570-NNB-D,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 15th July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 4 working days of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 20th July 2026"
+P570-NN3-D,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: At least three days before the examination date For example, a candidate must apply and book a slot on or before 22nd July 2026 to appear for the examination on 25th July 2026.
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 4 working days of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 20th July 2026"
+P570-NND-D,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: At least three days before the examination date For example, a candidate must apply and book a slot on or before 22nd July 2026 to appear for the examination on 25th July 2026.
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 4 working days of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P580-NNLA,
+P572-NNDA,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 3rd June 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd June 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: At least three days before the examination date For example, a candidate must apply and book a slot before 17th June 2026 to appear for the examination on 20th June 2026.
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th June 2026 onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 30th June 2026"
+P572-NNEA,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: 31st July 2026
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P572-NNFA,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 3rd June 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd June 2026 onwards*
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: At least three days before the examination date For example, a candidate must apply and book a slot before 17th June 2026 to appear for the examination on 20th June 2026.
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th June 2026 onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 24 working hours of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 20th June 2026"
+P561-NNM,"Online Registration Starts on:
+expected: 1st August 2026 onwards
+live: 1st July 2026
+
+Slot Booking for Online Examination:
+expected: 1st August 2026 onwards
+live: 3rd July 2026 onwards
+
+Last date to apply & book slot:
+expected: 15th August 2026 17th August 2026
+live: At least three days before the examination date For example, a candidate must apply and book a slot on or before 22nd July 2026 to appear for the examination on 25th July 2026.
+
+Dates of Entrance Examination #:
+expected: 4th August onwards
+live: 6th July onwards
+
+Display of Result:
+expected: Within 3 working days
+live: Within 4 working days of appearing for the exam
+
+Last Date of Admission:
+expected: 20th August 2026
+live: 31st July 2026"
+P568,

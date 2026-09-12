@@ -1,0 +1,35 @@
+{
+  "tableName": "Feeinternational",
+  "above90": "LPUIST score more than or equal to <strong> Category A </strong>cut-off</br>Or<br/> 90% or above <abbr title=\"For the calculation of aggregate marks, the best five subjects with the highest scores in the qualifying examination will be considered. However, if any specific subject(s) is mandated as part of the eligibility criteria for a particular program at LPU, then the marks obtained in that subject(s) must be included in the aggregate calculation. For further details, please refer to Part-C of the Prospectus.\"><b>aggregate marks</b></abbr> in eligibility qualification.",
+  "above75": "LPUIST score more than or equal to <strong>Category B </strong>cut-off</br>Or<br/> 75% - 89.99% <abbr title=\"For the calculation of aggregate marks, the best five subjects with the highest scores in the qualifying examination will be considered. However, if any specific subject(s) is mandated as part of the eligibility criteria for a particular program at LPU, then the marks obtained in that subject(s) must be included in the aggregate calculation. For further details, please refer to Part-C of the Prospectus.\"> <b>aggregate marks</b></abbr> in eligibility qualification.",
+  "above60": "LPUIST score more than or equal to <strong>Category C </strong>cut-off</br>Or<br/> 60% - 74.99% <abbr title=\"For the calculation of aggregate marks, the best five subjects with the highest scores in the qualifying examination will be considered. However, if any specific subject(s) is mandated as part of the eligibility criteria for a particular program at LPU, then the marks obtained in that subject(s) must be included in the aggregate calculation. For further details, please refer to Part-C of the Prospectus.\"> <b>aggregate marks</b></abbr> in eligibility qualification.",
+  "above50": "",
+  "officialCode": "P132",
+  "saarc": {
+    "tuitionFee": "160000",
+    "feeAbove90": "64000",
+    "feeAbove75": "80000",
+    "feeAbove60": "96000",
+    "feeAbove50": "",
+    "uniformFee": "4000",
+    "examFee": "5000"
+  },
+  "nonSAARC": {
+    "tuitionFee": "2500",
+    "feeAbove90": "1000",
+    "feeAbove75": "1250",
+    "feeAbove60": "1500",
+    "feeAbove50": "",
+    "uniformFee": "50",
+    "examFee": "75"
+  },
+  "other": {
+    "tuitionFee": "4000",
+    "feeAbove90": "1600",
+    "feeAbove75": "2000",
+    "feeAbove60": "2400",
+    "feeAbove50": "",
+    "uniformFee": "50",
+    "examFee": "75"
+  }
+}

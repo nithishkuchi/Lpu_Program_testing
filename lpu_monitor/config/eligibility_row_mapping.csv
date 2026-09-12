@@ -1,0 +1,298 @@
+official_code,eligibility_base,row_label,status,reason
+P105,After 10th,diploma engg,HIGH,Exact normalized match.
+P102,After 10th,diploma engg,HIGH,Exact normalized match.
+P102-NNP,After 10th,diploma engg,HIGH,Exact normalized match.
+P108,After 10th,diploma engg,HIGH,Exact normalized match.
+P109,After 10th,diploma engg,HIGH,Exact normalized match.
+P107,After 10th,diploma engg,HIGH,Exact normalized match.
+P106,After 10th,diploma engg,HIGH,Exact normalized match.
+P301,After 10th,diploma in business administration,HIGH,Exact normalized match.
+P701,After 10th,dip in architectural assistantship,HIGH,Exact normalized match.
+P501,After 10th,diploma in medical lab technology dmlt,HIGH,Exact normalized match.
+P135,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Closest eligibility row by name similarity with branch awareness.
+P135-Y,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P135-NNB,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P135-NN9,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-Y,After 10+2 (12th),b tech hons cse data science and data engineering b tech hons cse cyber security and block chain,HIGH,Exact normalized match.
+P132-NNM,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-NNK,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-NNL,After 10+2 (12th),b tech cse software product engineering,HIGH,Exact normalized match.
+P132-NNAA,After 10+2 (12th),b tech cse ai and data analytics,HIGH,Exact normalized match.
+P132-NNAH,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-NNAB,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-NNAK,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-NNS,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-NNT,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-NNAJ,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-NNAG,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-HNF,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P132-HNG,After 10+2 (12th),b tech hons cse data science and data engineering b tech hons cse cyber security and block chain,HIGH,Exact normalized match.
+P192-NE,After 10+2 (12th),integrated b tech computer science and engineering mba,HIGH,Exact normalized match.
+P133,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P138,After 10+2 (12th),b tech chemical civil mechanical including with international credit transfer option mechanical mechatronics aerospace automobile artificial intelligence and machine learning civil b tech civil ai and ml,HIGH,Exact normalized match.
+P138-Y,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Closest eligibility row by name similarity with branch awareness.
+P138-NN1,After 10+2 (12th),b tech chemical civil mechanical including with international credit transfer option mechanical mechatronics aerospace automobile artificial intelligence and machine learning civil b tech civil ai and ml,HIGH,Closest eligibility row by name similarity with branch awareness.
+P138-YN1,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Closest eligibility row by name similarity with branch awareness.
+P138-NNB,After 10+2 (12th),bca artificial intelligence and machine learning,HIGH,Exact normalized match.
+P13E,After 10+2 (12th),b tech chemical civil mechanical including with international credit transfer option mechanical mechatronics aerospace automobile artificial intelligence and machine learning civil b tech civil ai and ml,HIGH,Exact normalized match.
+P137,After 10+2 (12th),b tech chemical civil mechanical including with international credit transfer option mechanical mechatronics aerospace automobile artificial intelligence and machine learning civil b tech civil ai and ml,HIGH,Exact normalized match.
+P137-Y,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Closest eligibility row by name similarity with branch awareness.
+P137-NN3,After 10+2 (12th),b tech chemical civil mechanical including with international credit transfer option mechanical mechatronics aerospace automobile artificial intelligence and machine learning civil b tech civil ai and ml,HIGH,Exact normalized match.
+P136,After 10+2 (12th),b tech hons cse data science and data engineering b tech hons cse cyber security and block chain,HIGH,Closest eligibility row by name similarity with branch awareness.
+P13A,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Closest eligibility row by name similarity with branch awareness.
+P13AF,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Exact normalized match.
+P131,After 10+2 (12th),b tech biotechnology food tech and biomedical including with international credit transfer option biotechnology genetics and artificial intelligence,HIGH,Exact normalized match.
+P131-Y,After 10+2 (12th),b tech biotechnology food tech and biomedical including with international credit transfer option biotechnology genetics and artificial intelligence,HIGH,Closest eligibility row by name similarity with branch awareness.
+P131-NN4,After 10+2 (12th),b tech biotechnology food tech and biomedical including with international credit transfer option biotechnology genetics and artificial intelligence,HIGH,Exact normalized match.
+P13Q,After 10+2 (12th),b tech biotechnology food tech and biomedical including with international credit transfer option biotechnology genetics and artificial intelligence,HIGH,Exact normalized match.
+P13O,After 10+2 (12th),b tech biotechnology food tech and biomedical including with international credit transfer option biotechnology genetics and artificial intelligence,HIGH,Exact normalized match.
+P139,After 10+2 (12th),b tech chemical civil mechanical including with international credit transfer option mechanical mechatronics aerospace automobile artificial intelligence and machine learning civil b tech civil ai and ml,HIGH,Exact normalized match.
+P139-Y,After 10+2 (12th),b tech cse ece ee eee it including with international credit transfer option ece robotics and automation semiconductor and vlsi design artificial intelligence and automation cse data science with ml artificial intelligence and data science cloud computing and gen ai artificial intelligence and machine learning generative ai gen ai computer science and business systems robotics and artificial intelligence b tech cse ai and system design with global tech immersion,HIGH,Closest eligibility row by name similarity with branch awareness.
+P13C,After 10+2 (12th),b tech chemical civil mechanical including with international credit transfer option mechanical mechatronics aerospace automobile artificial intelligence and machine learning civil b tech civil ai and ml,HIGH,Exact normalized match.
+P124,After 10+2 (12th),bca,HIGH,Exact normalized match.
+P124-NN9,After 10+2 (12th),bca cyber security,HIGH,Exact normalized match.
+P124-NN8,After 10+2 (12th),bca data science in tie up with ibm,HIGH,Exact normalized match.
+P124-NN7,After 10+2 (12th),bca artificial intelligence and machine learning,HIGH,Exact normalized match.
+P124-NNA,After 10+2 (12th),bca artificial intelligence and data analytics,HIGH,Exact normalized match.
+P124-NNC,After 10+2 (12th),bca ai and robotics,HIGH,Exact normalized match.
+P22A-NN9,After 10+2 (12th),b sc computer science cyber security,HIGH,Exact normalized match.
+P123,After 10+2 (12th),bsc it including with international credit transfer option,HIGH,Exact normalized match.
+P123-Y,After 10+2 (12th),bsc it including with international credit transfer option,HIGH,Exact normalized match.
+P24B-H,After 10+2 (12th),b sc hons agriculture,HIGH,Exact normalized match.
+P244-HN3,After 10+2 (12th),b sc hons hons with research food technology,HIGH,Exact normalized match.
+P224,After 10+2 (12th),b sc hons hons with research food technology,HIGH,Exact normalized match.
+P245-HN1,After 10+2 (12th),bachelor of nutrition and dietetics honours,HIGH,Exact normalized match.
+P240-HN3,After 10+2 (12th),b sc hons hons with research biotechnology,HIGH,Exact normalized match.
+P220,After 10+2 (12th),b sc hons hons with research biotechnology,HIGH,Exact normalized match.
+P243-HN3,After 10+2 (12th),b sc hons hons with research microbiology,HIGH,Exact normalized match.
+P223,After 10+2 (12th),b sc hons hons with research microbiology,HIGH,Exact normalized match.
+P24G-H,After 10+2 (12th),b sc hons hons with research forensic sciences,HIGH,Exact normalized match.
+P22G,After 10+2 (12th),b sc hons hons with research forensic sciences,HIGH,Exact normalized match.
+P24A-HNB,After 10+2 (12th),b sc hons hons with research zoology,HIGH,Exact normalized match.
+P22A-NN5,After 10+2 (12th),b sc hons hons with research zoology,HIGH,Exact normalized match.
+P24A-HNC,After 10+2 (12th),b sc hons hons with research physics,HIGH,Exact normalized match.
+P22A-NN7,After 10+2 (12th),b sc hons hons with research physics,HIGH,Exact normalized match.
+P24A-HND,After 10+2 (12th),b sc hons hons with research chemistry,HIGH,Exact normalized match.
+P22A-NN6,After 10+2 (12th),b sc hons hons with research chemistry,HIGH,Exact normalized match.
+P24A-HNE,After 10+2 (12th),b sc hons hons with research mathematics,HIGH,Exact normalized match.
+P22A-NN8,After 10+2 (12th),b sc hons hons with research mathematics,HIGH,Exact normalized match.
+P321,After 10+2 (12th),bba hons hons with research,HIGH,Exact normalized match.
+P321-Y,After 10+2 (12th),bba 3yrs including with international credit transfer option,HIGH,Exact normalized match.
+P340-HNAE,After 10+2 (12th),bba hons hons with research,HIGH,Exact normalized match.
+P340-HNAH,After 10+2 (12th),bba hons technology and management with global immersion,HIGH,Exact normalized match.
+P390-NE,After 10+2 (12th),integrated bba mba,HIGH,Exact normalized match.
+P320-NN6,After 10+2 (12th),bba financial markets,HIGH,Exact normalized match.
+P320-NNG,After 10+2 (12th),bba international finance,HIGH,Exact normalized match.
+P320-NNB,After 10+2 (12th),bba business analytics,HIGH,Exact normalized match.
+P320-NNV,After 10+2 (12th),bba international accounting,HIGH,Exact normalized match.
+P320-NNX,After 10+2 (12th),bba corporate finance,HIGH,Exact normalized match.
+P320-NNY,After 10+2 (12th),bba digital marketing and artificial intelligence,HIGH,Exact normalized match.
+P320-NNZ,After 10+2 (12th),bba fintech and artificial intelligence,HIGH,Exact normalized match.
+P320-NNAA,After 10+2 (12th),bba artificial intelligence and machine learning,HIGH,Exact normalized match.
+P320-NNT,After 10+2 (12th),bba cargo logistics and supply chain management,HIGH,Exact normalized match.
+P322,After 10+2 (12th),b com hons hons with research,HIGH,Exact normalized match.
+P322-Y,After 10+2 (12th),b com including with international credit transfer option,HIGH,Exact normalized match.
+P342-HN9,After 10+2 (12th),b com hons hons with research,HIGH,Exact normalized match.
+P322-NN2,After 10+2 (12th),b com management accounting and international finance,HIGH,Exact normalized match.
+P322-NN6,After 10+2 (12th),b com international accounting,HIGH,Exact normalized match.
+P322-NN7,After 10+2 (12th),b com corporate finance,HIGH,Exact normalized match.
+P322-NNA,After 10+2 (12th),b com fintech and artificial intelligence,HIGH,Exact normalized match.
+P323-NN1,After 10+2 (12th),b sc hons hons with research economics,HIGH,Exact normalized match.
+P343-HN2,After 10+2 (12th),b sc hons hons with research economics,HIGH,Exact normalized match.
+P490-HH,After 10+2 (12th),b a ll b hons,HIGH,Exact normalized match.
+P391-HH,After 10+2 (12th),bba ll b hons,HIGH,Exact normalized match.
+P325,After 10+2 (12th),b sc airlines tourism and hospitality,HIGH,Exact normalized match.
+P320-NNAG,After 10+2 (12th),bba tourism hospitality and event management,HIGH,Exact normalized match.
+P320-NNM,After 10+2 (12th),bba airlines and airport management,HIGH,Exact normalized match.
+P324-NN8,After 10+2 (12th),b sc hotel and hospitality management,HIGH,Exact normalized match.
+P344,After 10+2 (12th),bhmct including with international credit transfer option,HIGH,Exact normalized match.
+P344-Y,After 10+2 (12th),bhmct including with international credit transfer option,HIGH,Exact normalized match.
+P324-NN6,After 10+2 (12th),b sc culinary arts,HIGH,Exact normalized match.
+P741,After 10+2 (12th),b arch,HIGH,Exact normalized match.
+P793-ND2,After 10+2 (12th),integrated b tech m tech urban and regional planning,HIGH,Exact normalized match.
+P722-NNJ,After 10+2 (12th),b sc interior and furniture design,HIGH,Exact normalized match.
+P742-NN1,After 10+2 (12th),b design interior and furniture,HIGH,Exact normalized match.
+P742-NN2,After 10+2 (12th),b design product and industrial,HIGH,Exact normalized match.
+P742-NNM,After 10+2 (12th),b design ui ux,HIGH,Exact normalized match.
+P722-NNF,After 10+2 (12th),b sc fashion design,HIGH,Exact normalized match.
+P742-NN3,After 10+2 (12th),b design fashion including with international credit transfer option,HIGH,Exact normalized match.
+P742-YN3,After 10+2 (12th),b design fashion including with international credit transfer option,HIGH,Exact normalized match.
+P722-NNL,After 10+2 (12th),b sc animation and vfx design,HIGH,Exact normalized match.
+P742-NNL,After 10+2 (12th),b design animation and vfx,HIGH,Exact normalized match.
+P722-NNG,After 10+2 (12th),b sc gaming design,HIGH,Exact normalized match.
+P742-NN8,After 10+2 (12th),b design gaming,HIGH,Exact normalized match.
+P722-NNH,After 10+2 (12th),b sc graphics design,HIGH,Exact normalized match.
+P742-NN5,After 10+2 (12th),b design graphics,HIGH,Exact normalized match.
+P421,After 10+2 (12th),b a fine arts,HIGH,Exact normalized match.
+P441,After 10+2 (12th),bachelor of fine arts bfa,HIGH,Exact normalized match.
+P724,After 10+2 (12th),b a journalism and mass communication,HIGH,Exact normalized match.
+P727,After 10+2 (12th),b sc film and tv production,HIGH,Exact normalized match.
+P742-NN6,After 10+2 (12th),b design film and tv production,HIGH,Exact normalized match.
+P41B,After 10+2 (12th),diploma in library and information sciences,HIGH,Exact normalized match.
+P422-NN5,After 10+2 (12th),b a music vocal theatre,HIGH,Exact normalized match.
+P422-NN7,After 10+2 (12th),b a music vocal theatre,HIGH,Exact normalized match.
+P442-NN5,After 10+2 (12th),bpa music vocal theatre,HIGH,Exact normalized match.
+P442-NN7,After 10+2 (12th),bpa music vocal theatre,HIGH,Exact normalized match.
+P44G-HN2,After 10+2 (12th),bachelor in clinical psychology b clin psy,HIGH,Exact normalized match.
+P44A-NN3,After 10+2 (12th),bachelor of psychology b psy,HIGH,Exact normalized match.
+P420,After 10+2 (12th),bachelor of arts b a,HIGH,Exact normalized match.
+P440-HN4,After 10+2 (12th),b a hons hons with research,HIGH,Exact normalized match.
+P420-NN7,After 10+2 (12th),b a social science,HIGH,Exact normalized match.
+P42K,After 10+2 (12th),bachelor of social work bsw,HIGH,Exact normalized match.
+P44K-H,After 10+2 (12th),bachelor of social work hons hons with research,HIGH,Exact normalized match.
+P42I,After 10+2 (12th),b sc public policy,HIGH,Exact normalized match.
+P622,After 10+2 (12th),b sc health and physical education,HIGH,Exact normalized match.
+P625,After 10+2 (12th),bachelor of physical education and sports bpes,HIGH,Exact normalized match.
+P49M-NK2,After 10+2 (12th),b a b ed spl ed multiple disability preparatory stage isitep,HIGH,Exact normalized match.
+P490-NK5,After 10+2 (12th),b a b ed secondary stage four year integrated teacher education programme itep,HIGH,Exact normalized match.
+P29A-NKF,After 10+2 (12th),b sc b ed secondary stage four year integrated teacher education programme itep,HIGH,Exact normalized match.
+P540-NNN-D,After 10+2 (12th),b pharm,HIGH,Exact normalized match.
+P5K0-NNKA,After 10+2 (12th),pharm d doctor of pharmacy,HIGH,Exact normalized match.
+P542-NNCA,After 10+2 (12th),bachelor of physiotherapy b pt,HIGH,Exact normalized match.
+P541-NNJ,After 10+2 (12th),bachelor of medical laboratory science,HIGH,Exact normalized match.
+P541-NNK,After 10+2 (12th),bachelor of anaesthesia and operation theatre technology,HIGH,Exact normalized match.
+P541-NND,After 10+2 (12th),bachelor of optometry,HIGH,Exact normalized match.
+P541-NNH,After 10+2 (12th),bachelor of cardiovascular technology,HIGH,Exact normalized match.
+P541-NNE,After 10+2 (12th),bachelor of medical radiology and imaging technology,HIGH,Exact normalized match.
+P548,After 10+2 (12th),b sc clinical embryology,HIGH,Exact normalized match.
+P105-L,Lateral Entry/Other Programmes(After ITI etc),diploma engg lateral entry no integrated,HIGH,Exact normalized match.
+P102-L,Lateral Entry/Other Programmes(After ITI etc),diploma engg lateral entry no integrated,HIGH,Exact normalized match.
+P102-LNP,Lateral Entry/Other Programmes(After ITI etc),diploma engg lateral entry no integrated,HIGH,Exact normalized match.
+P108-L,Lateral Entry/Other Programmes(After ITI etc),diploma engg lateral entry no integrated,HIGH,Exact normalized match.
+P107-L,Lateral Entry/Other Programmes(After ITI etc),diploma engg lateral entry no integrated,HIGH,Exact normalized match.
+P135-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P132-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P132-LNP,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Closest eligibility row by name similarity with branch awareness.
+P133-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),bsc it lateral entry,HIGH,Exact normalized match.
+P138-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P138-LN1,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P137-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P137-LN1,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech construction technology lateral entry,HIGH,Exact normalized match.
+P136-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P13A-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P13AF-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P131-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P13Q-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P139-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P13E-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P13C-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P13O-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b tech lateral entry,HIGH,Exact normalized match.
+P124-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),bca lateral entry,HIGH,Exact normalized match.
+P123-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),bsc it lateral entry,HIGH,Exact normalized match.
+P321-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),bba lateral entry,HIGH,Exact normalized match.
+P322-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b com lateral entry,HIGH,Exact normalized match.
+P324-LN8,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc hotel and hospitality management lateral entry,HIGH,Exact normalized match.
+P344-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),bhmct lateral entry,HIGH,Exact normalized match.
+P325-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc airlines tourism and hospitality lateral entry,HIGH,Exact normalized match.
+P722-LNJ,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc interior and furniture design lateral entry,HIGH,Exact normalized match.
+P742-LN1,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b design interior and furniture lateral entry,HIGH,Exact normalized match.
+P742-LN2,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b design product and industrial lateral entry,HIGH,Exact normalized match.
+P742-LNM,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b design ui ux lateral entry,HIGH,Exact normalized match.
+P722-LNF,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc fashion design lateral entry,HIGH,Exact normalized match.
+P742-LN3,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b design fashion lateral entry,HIGH,Exact normalized match.
+P540-LNN-D,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b pharm lateral entry,HIGH,Exact normalized match.
+P542-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),bpt lateral entry,HIGH,Exact normalized match.
+P521-L,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc medical radiology and imaging technology lateral entry,HIGH,Closest eligibility row by name similarity with branch awareness.
+P521-LN5,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc optometry lateral entry,HIGH,Exact normalized match.
+P521-LN6,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc anaesthesia and operation theatre technology lateral entry,HIGH,Exact normalized match.
+P521-LNC,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc medical radiology and imaging technology lateral entry,HIGH,Exact normalized match.
+P521-LN7,Lateral Entry/Other Programmes(After 3 yrs. Diploma),b sc cardiovascular technology lateral entry,HIGH,Exact normalized match.
+P371-NNAF,After Graduation,mba 1 1 with international credit transfer option,HIGH,Exact normalized match.
+P371-YNAF,After Graduation,mba 1 1 with international credit transfer option,HIGH,Exact normalized match.
+P370-NN2F,After Graduation,mba international business,HIGH,Exact normalized match.
+P370-NN3F,After Graduation,mba hospital and healthcare management,HIGH,Exact normalized match.
+P370-NNAF,After Graduation,mba digital and social media marketing,HIGH,Exact normalized match.
+P370-NNBF,After Graduation,mba business analytics,HIGH,Exact normalized match.
+P370-NN7F,After Graduation,mba supply chain and logistics,HIGH,Exact normalized match.
+P370-NN6F,After Graduation,mba financial markets,HIGH,Exact normalized match.
+P370-NNAB,After Graduation,mba data science and artificial intelligence,HIGH,Exact normalized match.
+P370-NNZ,After Graduation,mba fintech and artificial intelligence,HIGH,Exact normalized match.
+P362,After Graduation,m com,HIGH,Exact normalized match.
+P363,After Graduation,m sc economics,HIGH,Exact normalized match.
+P363-NN-1,After Graduation,m a economics,HIGH,Exact normalized match.
+P4AE,After Graduation,ll b,HIGH,Exact normalized match.
+P4BE-NN1,After Graduation,ll b,HIGH,Exact normalized match.
+P375-NN3,After Graduation,mba tourism aviation and hospitality,HIGH,Exact normalized match.
+P762-NNJ,After Graduation,m sc interior and furniture design,HIGH,Exact normalized match.
+P772-NN1,After Graduation,m design interior and furniture,HIGH,Exact normalized match.
+P762-NNM,After Graduation,m sc ui ux design,HIGH,Exact normalized match.
+P762-NNF,After Graduation,m sc fashion design,HIGH,Exact normalized match.
+P762-NNP,After Graduation,master of fashion management mfm,HIGH,Exact normalized match.
+P762-NNL,After Graduation,m sc animation and vfx design,HIGH,Exact normalized match.
+P471,After Graduation,master of fine arts mfa,HIGH,Exact normalized match.
+P764,After Graduation,m a journalism and mass communication,HIGH,Exact normalized match.
+P767,After Graduation,m sc film and tv production,HIGH,Exact normalized match.
+P472,After Graduation,master of performing arts mpa,HIGH,Exact normalized match.
+P466,After Graduation,m a history,HIGH,Exact normalized match.
+P46A,After Graduation,m a psychology,HIGH,Exact normalized match.
+P46C,After Graduation,m a applied psychology,HIGH,Exact normalized match.
+P46G-NN2A,After Graduation,master in clinical psychology m clin psy,HIGH,Exact normalized match.
+P46A-NN5,After Graduation,m a counselling psychology,HIGH,Exact normalized match.
+P46A-NN2,After Graduation,m sc forensic psychology,HIGH,Exact normalized match.
+P467,After Graduation,m a sociology,HIGH,Exact normalized match.
+P46K,After Graduation,master of social work msw,HIGH,Exact normalized match.
+P468,After Graduation,m a political science,HIGH,Exact normalized match.
+P46I-NN1,After Graduation,m sc public policy,HIGH,Exact normalized match.
+P469-NN1,After Graduation,m sc geography,HIGH,Exact normalized match.
+P463,After Graduation,m a english,HIGH,Exact normalized match.
+P4AB,After Graduation,bachelors of library and information sciences b lib i sc,HIGH,Exact normalized match.
+P4BB,After Graduation,bachelors of library and information sciences b lib i sc,HIGH,Exact normalized match.
+P465,After Graduation,m a punjabi hindi,HIGH,Exact normalized match.
+P464,After Graduation,m a punjabi hindi,HIGH,Exact normalized match.
+P6A1,After Graduation,b ed,HIGH,Exact normalized match.
+P661,After Graduation,m a education,HIGH,Exact normalized match.
+P6A2,After Graduation,b p ed,HIGH,Exact normalized match.
+P6B2,After Graduation,b p ed,HIGH,Exact normalized match.
+P172,After Graduation,m tech computer science and engineering,HIGH,Exact normalized match.
+P172-YNQ,After Graduation,m tech computer science and engineering by research with international credit transfer option,HIGH,Exact normalized match.
+P17X,After Graduation,m tech machine learning and artificial intelligence,HIGH,Exact normalized match.
+P17AC,After Graduation,m tech data science and analytics,HIGH,Exact normalized match.
+P17AD,After Graduation,m tech information security and cyber forensics,HIGH,Exact normalized match.
+P17E,After Graduation,m tech aeropsace engineering,HIGH,Exact normalized match.
+P17N,After Graduation,m tech structural engineering,HIGH,Exact normalized match.
+P17R,After Graduation,m tech construction management,HIGH,Exact normalized match.
+P17F,After Graduation,m tech vlsi design,HIGH,Exact normalized match.
+P175-NNA,After Graduation,m tech robotics and artificial intelligence,HIGH,Exact normalized match.
+P17J,After Graduation,m tech power systems,HIGH,Exact normalized match.
+P17Q,After Graduation,m tech food technology,HIGH,Exact normalized match.
+P171,After Graduation,m tech biotechnology,HIGH,Exact normalized match.
+P171-Y,After Graduation,m tech biotechnology with international credit transfer option,HIGH,Exact normalized match.
+P164-NN1,After Graduation,mca,HIGH,Exact normalized match.
+P164-HN8,After Graduation,mca hons data science,HIGH,Exact normalized match.
+P164-HN7,After Graduation,mca hons artificial intelligence and machine learning,HIGH,Exact normalized match.
+P164-HN9,After Graduation,mca hons cyber security,HIGH,Exact normalized match.
+P163,After Graduation,m sc information technology,HIGH,Exact normalized match.
+P16AJ,After Graduation,m sc data science,HIGH,Exact normalized match.
+P26B-NN1,After Graduation,m sc agri agronomy,HIGH,Exact normalized match.
+P26B-NN2,After Graduation,m sc agri soil science,HIGH,Exact normalized match.
+P26B-NN3,After Graduation,m sc agri genetics and plant breeding,HIGH,Exact normalized match.
+P26B-NN5,After Graduation,m sc agri entomology,HIGH,Exact normalized match.
+P26B-NN6,After Graduation,m sc agri plant pathology,HIGH,Exact normalized match.
+P26E,After Graduation,m sc hort vegetable science,HIGH,Exact normalized match.
+P26C,After Graduation,m sc hort fruit science,HIGH,Exact normalized match.
+P26F-NN1,After Graduation,m sc hort floriculture and landscaping,HIGH,Exact normalized match.
+P264,After Graduation,m sc food science and technology,HIGH,Exact normalized match.
+P265-NN1,After Graduation,masters of nutrition and dietetics,HIGH,Exact normalized match.
+P260-H,After Graduation,m sc hons biotechnology,HIGH,Exact normalized match.
+P263-H,After Graduation,m sc hons microbiology,HIGH,Exact normalized match.
+P26G,After Graduation,m sc forensic science,HIGH,Exact normalized match.
+P26G-NN1,After Graduation,m sc digital forensics and cyber security,HIGH,Exact normalized match.
+P262-H,After Graduation,m sc hons zoology,HIGH,Exact normalized match.
+P2L2,After Graduation,m sc hons zoology,HIGH,Exact normalized match.
+P268-H,After Graduation,m sc hons physics,HIGH,Exact normalized match.
+P266-H,After Graduation,m sc hons chemistry,HIGH,Exact normalized match.
+P269,After Graduation,m sc mathematics,HIGH,Exact normalized match.
+P269-NN-1,After Graduation,m a mathematics,HIGH,Exact normalized match.
+P26J,After Graduation,m sc statistics and data analytics,HIGH,Exact normalized match.
+P570-NN1-D,After Graduation,m pharm pharmaceutics pharmacology pharmaceutical analysis pharmaceutical chemistry pharmacy practice,HIGH,Exact normalized match.
+P570-NN2-D,After Graduation,m pharm pharmaceutics pharmacology pharmaceutical analysis pharmaceutical chemistry pharmacy practice,HIGH,Exact normalized match.
+P570-NNB-D,After Graduation,m pharm pharmaceutics pharmacology pharmaceutical analysis pharmaceutical chemistry pharmacy practice,HIGH,Exact normalized match.
+P570-NN3-D,After Graduation,m pharm pharmaceutics pharmacology pharmaceutical analysis pharmaceutical chemistry pharmacy practice,HIGH,Exact normalized match.
+P570-NND-D,After Graduation,m pharm pharmaceutics pharmacology pharmaceutical analysis pharmaceutical chemistry pharmacy practice,HIGH,Exact normalized match.
+P580-NNLA,After Graduation,pharm d pb,HIGH,Exact normalized match.
+P572-NNDA,After Graduation,m pt musculoskeletal science neuroscience sports science,HIGH,Exact normalized match.
+P572-NNEA,After Graduation,m pt musculoskeletal science neuroscience sports science,HIGH,Exact normalized match.
+P572-NNFA,After Graduation,m pt musculoskeletal science neuroscience sports science,HIGH,Exact normalized match.
+P561-NNM,After Graduation,master of medical laboratory science medical microbiology,HIGH,Exact normalized match.
+P568,After Graduation,m sc clinical embryology,HIGH,Exact normalized match.

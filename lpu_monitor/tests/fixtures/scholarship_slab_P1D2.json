@@ -1,0 +1,9 @@
+[
+  {
+    "phaseNo": 1,
+    "above95": "LPUNEST score more than or equal to <strong>Category A </strong> cut-off <br/>",
+    "above90": "LPUNEST score more than or equal to <strong>Category B </strong>cut-off <br/>",
+    "above80": "LPUNEST score more than or equal to <strong>Category C </strong>cut-off <br/>",
+    "above70": ""
+  }
+]

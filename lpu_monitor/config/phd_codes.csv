@@ -1,0 +1,136 @@
+official_code,program_id,program_name,mode
+P5D0-NN1,208,Ph.D. (Pharmaceutics) [Full Time Mode],Full Time
+P5D0-TN1,209,Ph.D. (Pharmaceutics) [Part Time Mode],Part Time
+P3D2,216,Ph.D. (Commerce) [Full Time Mode],Full Time
+P3D2-T,217,Ph.D. (Commerce) [Part Time Mode],Part Time
+P3D3,218,Ph.D. (Economics) [Full Time Mode],Full Time
+P4D3,219,Ph.D. (English) [Full Time Mode],Full Time
+P3D3-T,220,Ph.D. (Economics) [Part Time Mode],Part Time
+P4D3-T,221,Ph.D. (English) [Part Time Mode],Part Time
+P3D1,224,Ph.D. (Management) [Full Time Mode],Full Time
+P3D1-T,225,Ph.D. (Management) [Part Time Mode],Part Time
+P6D1,235,Ph.D. (Education) [Full Time Mode],Full Time
+P6D1-T,236,Ph.D. (Education) [Part Time Mode],Part Time
+P6D2,237,Ph.D. (Physical Education) [Full Time Mode],Full Time
+P6D2-T,238,Ph.D. (Physical Education) [Part Time Mode],Part Time
+P2DB-NN3,246,Ph.D. (Genetics & Plant Breeding) [Full Time Mode],Full Time
+P2DL,251,Ph.D. (Bioinformatics) [Full Time Mode],Full Time
+P2D0,251,Ph.D. (Biotechnology) [Full Time Mode],Full Time
+P2DL-T,252,Ph.D. (Bioinformatics) [Part Time Mode],Part Time
+P2D0-T,252,Ph.D. (Biotechnology) [Part Time Mode],Part Time
+P2D1,254,Ph.D. (Botany) [Full Time Mode],Full Time
+P2D1-T,255,Ph.D. (Botany) [Part Time],Part Time
+P2D6,256,Ph.D. (Chemistry) [Full Time Mode],Full Time
+P2D6-T,257,Ph.D. (Chemistry) [Part Time Mode],Part Time
+P1D5-T,262,Ph.D. (Electronics and Communication Engineering) [Part Time Mode],Part Time
+P1D5,263,Ph.D. (Electronics and Communication Engineering) [Full Time Mode],Full Time
+P2D9-T,266,Ph.D. (Mathematics) [Part Time Mode],Part Time
+P2D9,267,Ph.D. (Mathematics) [Full Time Mode],Full Time
+P1D8,268,Ph.D. (Mechanical Engineering) [Full Time Mode],Full Time
+P1D8-T,269,Ph.D. (Mechanical Engineering) [Part Time Mode],Part Time
+P2D3,270,Ph.D. (Microbiology) [Full Time Mode],Full Time
+P2D3-T,271,Ph.D. (Microbiology) [Part Time Mode],Part Time
+P2D8,272,Ph.D. (Physics) [Full Time Mode],Full Time
+P2D8-T,273,Ph.D. (Physics) [Part Time Mode],Part Time
+P2D2,274,Ph.D. (Zoology) [Full Time Mode],Full Time
+P2D2-T,275,Ph.D. (Zoology) [Part Time Mode],Part Time
+P7D4,276,Ph.D. (Journalism and Mass Communication) [Full Time Mode],Full Time
+P7D4-T,277,Ph.D. (Journalism and Mass Communication) [Part Time Mode],Part Time
+P2DD,278,Ph.D. (Environmental Sciences) [Full Time Mode],Full Time
+P2DD-T,279,Ph.D. (Environmental Sciences) [Part Time Mode],Part Time
+P4D6,280,Ph.D. (History) [Full Time Mode],Full Time
+P4D6-T,281,Ph.D. (History) [Part Time Mode],Part Time
+P4DA,282,Ph.D. (Psychology) [Full Time Mode],Full Time
+P4DA-T,283,Ph.D. (Psychology) [Part Time Mode],Part Time
+P5D0-NN8,288,Ph.D. (Ayurvedic Pharmacy) [Full Time Mode],Full Time
+P5D0-TN8,289,Ph.D. (Ayurvedic Pharmacy) [Part Time Mode],Part Time
+P2D7,290,Ph.D. (Biochemistry) [Full Time Mode],Full Time
+P2D7-T,291,Ph.D. (Biochemistry) [Part Time Mode],Part Time
+P5D0-NN3,297,Ph.D. (Pharmaceutical Chemistry) [Full Time Mode],Full Time
+P5D0-TN3,298,Ph.D. (Pharmaceutical Chemistry) [Part Time Mode],Part Time
+P5D0-NN6,299,Ph.D. (Pharmacognosy) [Full Time Mode],Full Time
+P5D0-TN6,300,Ph.D. (Pharmacognosy) [Part Time Mode],Part Time
+P5D0-NN2,301,Ph.D. (Pharmacology) [Full Time Mode],Full Time
+P5D0-TN2,302,Ph.D. (Pharmacology) [Part Time Mode],Part Time
+P1D2-T,329,Ph.D. (Computer Science and Engineering) [Part Time Mode],Part Time
+P7D3-T,329,Ph.D. (Planning) [Part Time Mode],Part Time
+P1D2,330,Ph.D. (Computer Science and Engineering) [Full Time Mode],Full Time
+P7D3,330,Ph.D. (Planning) [Full time mode],Full Time
+P2DB-NN1,331,Ph.D. (Agronomy) [Full Time Mode],Full Time
+P4D7-T,333,Ph.D. (Sociology) [Part Time Mode],Part Time
+P4D7,334,Ph.D. (Sociology) [Full Time Mode],Full Time
+P1D4,346,Ph.D. (Computer Applications) [Full Time Mode],Full Time
+P1D4-T,347,Ph.D. (Computer Applications) [Part Time Mode],Part Time
+P1D6-T,393,Ph.D. (Electrical Engineering) [Part Time Mode],Part Time
+P1D6,394,Ph.D. (Electrical Engineering) [Full Time Mode],Full Time
+P4D4,396,Ph.D. (Punjabi) [Full Time Mode],Full Time
+P4D4-T,397,Ph.D. (Punjabi) [Part Time Mode],Part Time
+P4D5-T,398,Ph.D. (Hindi) [Part Time Mode],Part Time
+P4D5,399,Ph.D. (Hindi) [Full Time Mode],Full Time
+P4D9,400,Ph.D. (Geography) [Full Time Mode],Full Time
+P4D9-T,401,Ph.D. (Geography) [Part Time Mode],Part Time
+P4D1-T,402,Ph.D. (Fine Arts) [Part Time Mode],Part Time
+P4D1,403,Ph.D. (Fine Arts) [Full Time Mode],Full Time
+P5D2,404,Ph.D. (Physiotherapy) [Full Time Mode],Full Time
+P5D2-T,405,Ph.D. (Physiotherapy) [Part Time Mode],Part Time
+P1D7,413,Ph.D. (Civil Engineering)[Full Time Mode],Full Time
+P1D7-T,415,Ph.D. (Civil Engineering) [Part Time Mode],Part Time
+P2DB-NN5,416,Ph.D. (Entomology) [Full Time Mode],Full Time
+P2DB-NN6,419,Ph.D. (Plant Pathology) [Full Time Mode],Full Time
+P2D4-NN1,420,Ph.D. (Food Science and Technology) [Full Time Mode],Full Time
+P3D4,422,Ph.D. (Hotel Management) [Full Time Mode],Full Time
+P4DE,423,Ph.D. (Law) [Full Time Mode],Full Time
+P4D8,424,Ph.D. (Political Science) [Full Time Mode],Full Time
+P3D4-T,425,Ph.D. (Hotel Management) [Part Time Mode],Part Time
+P4DE-T,426,Ph.D. (Law) [Part Time Mode],Part Time
+P4D8-T,427,Ph.D. (Political Science) [Part Time Mode],Part Time
+P2DC-NN1,429,Ph.D. (Fruit Science) [Full Time Mode],Full Time
+P5D4,430,Ph.D. (Clinical Microbiology) [Full Time Mode],Full Time
+P5D4-T,431,Ph.D. (Clinical Microbiology) [Part Time Mode],Part Time
+P5D5-T,432,Ph.D. (Clinical Biochemistry) [Part Time Mode],Part Time
+P5D5,433,Ph.D. (Clinical Biochemistry) [Full Time Mode],Full Time
+P4DB,460,Ph.D. (Library Science) [Full Time Mode],Full Time
+P4DB-T,461,Ph.D. (Library Science) [Part Time Mode],Part Time
+P3D5-NN1,473,Ph.D. (Tourism Management) [Full Time Mode],Full Time
+P3D5-TN1,474,Ph.D. (Tourism Management) [Part Time Mode],Part Time
+P1DC,492,Ph.D. (Chemical Engineering) [Full Time Mode],Full Time
+P2DS,493,Ph.D. (Molecular Biology and Genetic Engineering) [Full Time Mode],Full Time
+P1DC-T,494,Ph.D. (Chemical Engineering) [Part Time Mode],Part Time
+P2DS-T,495,Ph.D. (Molecular Biology and Genetic Engineering) [Part Time Mode],Part Time
+P4DF,507,Ph.D. (Public Administration) [Full Time Mode],Full Time
+P4DF-T,508,Ph.D. (Public Administration) [Part Time Mode],Part Time
+P1DE,509,Ph.D. (Aerospace Engineering) [Full Time Mode],Full Time
+P1DE-T,510,Ph.D. (Aerospace Engineering) [Part Time Mode],Part Time
+P1DV-T,511,Ph.D. (Geospatial Information Science and Technology)[Part Time Mode],Part Time
+P1DV,512,Ph.D. (Geospatial Information Science and Technology) [Full Time Mode],Full Time
+P7D1,527,Ph.D. (Architecture) [Full Time Mode],Full Time
+P2DG,529,Ph.D. (Forensic Sciences) [Full Time Mode],Full Time
+P2DG-T,530,Ph.D. (Forensic Sciences) [Part Time Mode],Part Time
+P7D1-T,531,Ph.D. (Architecture) [Part Time Mode],Part Time
+P4D2-NN1,533,Ph.D. (Performing Arts-Music) [Full Time Mode],Full Time
+P4D2-TN1,534,Ph.D. (Performing Arts-Music) [Part Time Mode],Part Time
+P4D2-NNA,535,Ph.D. (Performing Arts-Theatre) [Full Time Mode],Full Time
+P4D2-TNA,536,Ph.D. (Performing Arts-Theatre) [Part Time Mode],Part Time
+P2DE-NN1,548,Ph.D. (Vegetable Science) [Full Time Mode],Full Time
+P2DB-NN8,549,Ph.D. (Soil Science) [Full Time Mode],Full Time
+P5D0-NND,731,Ph.D. (Pharmacy Practice) [Full Time Mode],Full Time
+P5D0-TND,732,Ph.D. (Pharmacy Practice) [Part Time Mode],Part Time
+P5D0-NNB,742,Ph.D. (Pharmaceutical Analysis) [Full Time Mode],Full Time
+P5D0-TNB,743,Ph.D. (Pharmaceutical Analysis) [Part Time Mode],Part Time
+P2D4-TN1,763,Ph.D. (Food Science and Technology) [Part Time Mode],Part Time
+P7D2-NN3,807,Ph.D. (Fashion) [Full Time Mode],Full Time
+P7D2-TN3,808,Ph.D. (Fashion) [Part Time Mode],Part Time
+P7D2-NN1,809,Ph.D. (Interior and Furniture Design) [Full Time Mode],Full Time
+P7D2-TN1,810,Ph.D. (Interior and Furniture Design) [Part Time Mode],Part Time
+P7D2-NN2,811,Ph.D. (Product and Industrial Design) [Full Time Mode],Full Time
+P7D2-TN2,812,Ph.D. (Product and Industrial Design) [Part Time Mode],Part Time
+P7D2-NN9,813,Ph.D. (User Experience) [Full Time Mode],Full Time
+P7D2-TN9,814,Ph.D. (User Experience) [Part Time Mode],Part Time
+P7D2-NN6,816,Ph.D. (Film and TV Production) [Full Time Mode],Full Time
+P7D2-TN6,817,Ph.D. (Film and TV Production) [Part Time Mode],Part Time
+P2DK,824,Ph.D. (Statistics) [Full Time Mode],Full Time
+P4DK,825,Ph.D. (Social Work) [Full Time Mode],Full Time
+P2DK-T,880,Ph.D. (Statistics)[Part Time Mode],Part Time
+P4DK-T,881,Ph.D. (Social Work) [Part Time],Part Time
+P5D8,892,Ph.D. (Clinical Embryology) [Full Time Mode],Full Time
+P1DAL,1130,Ph.D. (Nanotechnology) [Full Time],Full Time
